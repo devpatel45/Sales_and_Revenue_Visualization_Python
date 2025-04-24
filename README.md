@@ -39,7 +39,7 @@ The notebook is built using:
 ## 📌 Requirements
 
 ```bash
-pip install pandas seaborn matplotlib
+pip install -r requirements.txt
 ```
 
 ## 📸 Sample Output
