@@ -1,0 +1,1501 @@
+,event_id,store_id,campaign_id,product_code,base_price(before_promo),quantity_sold(before_promo),promo_type,base_price(after_promo),quantity_sold(after_promo),category,product_name
+0,8481be,STCHE-1,CAMP_DIW_01,P04,290,327.0,25% OFF,217,287,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1,20618e,STCHE-3,CAMP_SAN_01,P04,370,379.0,BOGOF,185,1622,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+2,f30579,STBLR-9,CAMP_DIW_01,P02,860,337.0,33% OFF,576,488,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+3,4f570c,STBLR-7,CAMP_DIW_01,P05,55,122.0,25% OFF,41,107,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+4,6d153f,STHYD-5,CAMP_SAN_01,P15,3000,122.0,500 Cashback,2500,272,Combo1,Atliq_Home_Essential_8_Product_Combo
+5,87564a,STCHE-6,CAMP_DIW_01,P04,290,346.0,25% OFF,217,269,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+6,6bbadf,STHYD-1,CAMP_DIW_01,P14,1020,43.0,BOGOF,510,127,Home Appliances,Atliq_waterproof_Immersion_Rod
+7,6.88E+10,STVJD-0,CAMP_SAN_01,P08,1190,22.0,BOGOF,595,88,Home Care,Atliq_Double_Bedsheet_set
+8,66c422,STBLR-5,CAMP_DIW_01,P07,300,66.0,BOGOF,150,227,Home Care,Atliq_Curtains
+9,108d5a,STCBE-0,CAMP_DIW_01,P14,1020,29.0,BOGOF,510,101,Home Appliances,Atliq_waterproof_Immersion_Rod
+10,a7fecb,STBLR-1,CAMP_SAN_01,P03,200,361.0,BOGOF,100,963,Grocery & Staples,Atliq_Suflower_Oil (1L)
+11,d04bc1,STCBE-0,CAMP_SAN_01,P09,90,49.0,25% OFF,67,46,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+12,ed7b12,STVSK-0,CAMP_SAN_01,P10,50,16.0,25% OFF,37,13,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+13,e7d681,STCHE-5,CAMP_DIW_01,P13,350,66.0,BOGOF,175,226,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+14,02ebe9,STBLR-8,CAMP_DIW_01,P11,190,66.0,50% OFF,95,88,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+15,4b3df6,STTRV-1,CAMP_SAN_01,P14,1020,61.0,BOGOF,510,234,Home Appliances,Atliq_waterproof_Immersion_Rod
+16,e0ef00,STBLR-9,CAMP_SAN_01,P03,200,309.0,BOGOF,100,1226,Grocery & Staples,Atliq_Suflower_Oil (1L)
+17,90110c,STHYD-0,CAMP_SAN_01,P04,370,412.0,BOGOF,185,1615,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+18,a2d32f,STVSK-3,CAMP_SAN_01,P09,90,39.0,25% OFF,67,31,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+19,08086d,STBLR-7,CAMP_DIW_01,P10,65,120.0,50% OFF,32,188,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+20,465ef1,STCHE-4,CAMP_DIW_01,P04,290,304.0,25% OFF,217,273,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+21,fa1dd3,STCHE-3,CAMP_SAN_01,P15,3000,127.0,500 Cashback,2500,367,Combo1,Atliq_Home_Essential_8_Product_Combo
+22,92151c,STMDU-3,CAMP_SAN_01,P10,50,25.0,25% OFF,37,20,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+23,31c430,STHYD-1,CAMP_SAN_01,P01,172,312.0,33% OFF,115,393,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+24,42fb76,STHYD-5,CAMP_DIW_01,P10,65,112.0,50% OFF,32,151,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+25,9d3d1f,STCHE-6,CAMP_SAN_01,P15,3000,147.0,500 Cashback,2500,320,Combo1,Atliq_Home_Essential_8_Product_Combo
+26,57d06d,STCBE-1,CAMP_SAN_01,P09,90,54.0,25% OFF,67,39,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+27,ba86f4,STVSK-1,CAMP_DIW_01,P13,350,61.0,BOGOF,175,204,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+28,decd5e,STMDU-2,CAMP_SAN_01,P10,50,21.0,25% OFF,37,17,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+29,a0da88,STMLR-2,CAMP_DIW_01,P03,156,204.0,25% OFF,117,175,Grocery & Staples,Atliq_Suflower_Oil (1L)
+30,67820e,STBLR-0,CAMP_SAN_01,P10,50,31.0,25% OFF,37,25,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+31,97ad03,STCBE-1,CAMP_SAN_01,P02,860,379.0,33% OFF,576,462,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+32,d04921,STMLR-1,CAMP_DIW_01,P10,65,50.0,50% OFF,32,68,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+33,029ff8,STMLR-0,CAMP_SAN_01,P01,172,169.0,33% OFF,115,236,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+34,b4867e,STCHE-6,CAMP_SAN_01,P11,190,57.0,50% OFF,95,79,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+35,7f6f08,STBLR-7,CAMP_SAN_01,P05,55,24.0,25% OFF,41,20,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+36,b8f698,STMDU-3,CAMP_DIW_01,P10,65,68.0,50% OFF,32,76,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+37,debbd7,STCBE-0,CAMP_SAN_01,P11,190,45.0,50% OFF,95,72,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+38,5.23E+42,STCHE-5,CAMP_DIW_01,P15,3000,388.0,500 Cashback,2500,1187,Combo1,Atliq_Home_Essential_8_Product_Combo
+39,911349,STHYD-0,CAMP_DIW_01,P15,3000,397.0,500 Cashback,2500,1214,Combo1,Atliq_Home_Essential_8_Product_Combo
+40,46d57b,STBLR-9,CAMP_DIW_01,P13,350,94.0,BOGOF,175,329,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+41,9acae6,STMYS-0,CAMP_DIW_01,P05,55,73.0,25% OFF,41,65,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+42,a216f7,STCBE-2,CAMP_DIW_01,P06,415,77.0,25% OFF,311,68,Home Care,Atliq_Fusion_Container_Set_of_3
+43,607c9d,STCHE-2,CAMP_SAN_01,P02,860,556.0,33% OFF,576,711,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+44,5.80E+27,STMYS-2,CAMP_DIW_01,P07,300,73.0,BOGOF,150,215,Home Care,Atliq_Curtains
+45,291ddf,STCBE-1,CAMP_SAN_01,P03,200,267.0,BOGOF,100,1054,Grocery & Staples,Atliq_Suflower_Oil (1L)
+46,dc07e1,STMYS-2,CAMP_SAN_01,P06,415,31.0,25% OFF,311,26,Home Care,Atliq_Fusion_Container_Set_of_3
+47,1b1cf1,STBLR-8,CAMP_DIW_01,P09,110,61.0,50% OFF,55,77,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+48,e2abd2,STCHE-3,CAMP_DIW_01,P09,110,73.0,50% OFF,55,92,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+49,2384f8,STMYS-0,CAMP_DIW_01,P09,110,70.0,50% OFF,55,87,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+50,9c74f7,STBLR-9,CAMP_DIW_01,P09,110,71.0,50% OFF,55,90,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+51,b76f57,STBLR-8,CAMP_DIW_01,P13,350,66.0,BOGOF,175,220,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+52,f32df2,STHYD-6,CAMP_DIW_01,P04,290,390.0,25% OFF,217,339,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+53,078a6a,STMDU-0,CAMP_SAN_01,P09,90,57.0,25% OFF,67,47,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+54,35e1c7,STBLR-1,CAMP_DIW_01,P14,1020,54.0,BOGOF,510,169,Home Appliances,Atliq_waterproof_Immersion_Rod
+55,ff02ae,STCBE-3,CAMP_DIW_01,P11,190,66.0,50% OFF,95,102,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+56,2177f8,STMDU-0,CAMP_DIW_01,P04,290,234.0,25% OFF,217,208,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+57,802b3c,STBLR-1,CAMP_DIW_01,P15,3000,369.0,500 Cashback,2500,1007,Combo1,Atliq_Home_Essential_8_Product_Combo
+58,6aae63,STMYS-2,CAMP_DIW_01,P13,350,63.0,BOGOF,175,189,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+59,dc2bb1,STMYS-3,CAMP_SAN_01,P02,860,400.0,33% OFF,576,476,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+60,60170c,STHYD-4,CAMP_DIW_01,P08,1190,63.0,BOGOF,595,208,Home Care,Atliq_Double_Bedsheet_set
+61,bd3f78,STHYD-0,CAMP_DIW_01,P11,190,68.0,50% OFF,95,104,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+62,eb4f04,STMLR-0,CAMP_SAN_01,P15,3000,54.0,500 Cashback,2500,89,Combo1,Atliq_Home_Essential_8_Product_Combo
+63,70c312,STHYD-4,CAMP_SAN_01,P13,350,78.0,BOGOF,175,534,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+64,9779b0,STVSK-2,CAMP_DIW_01,P10,65,85.0,50% OFF,32,128,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+65,7641,STBLR-1,CAMP_SAN_01,P14,1020,97.0,BOGOF,510,257,Home Appliances,Atliq_waterproof_Immersion_Rod
+66,4dca21,STVSK-1,CAMP_SAN_01,P04,370,252.0,BOGOF,185,985,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+67,aa76f1,STHYD-0,CAMP_SAN_01,P11,190,42.0,50% OFF,95,65,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+68,d42636,STBLR-6,CAMP_SAN_01,P05,55,25.0,25% OFF,41,20,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+69,c6693c,STBLR-1,CAMP_SAN_01,P04,370,413.0,BOGOF,185,1102,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+70,34395c,STBLR-0,CAMP_DIW_01,P15,3000,434.0,500 Cashback,2500,1514,Combo1,Atliq_Home_Essential_8_Product_Combo
+71,f23d14,STHYD-1,CAMP_SAN_01,P05,55,25.0,25% OFF,41,21,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+72,8.25E+90,STBLR-3,CAMP_DIW_01,P05,55,112.0,25% OFF,41,88,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+73,ed0d01,STBLR-2,CAMP_DIW_01,P12,62,108.0,50% OFF,31,145,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+74,fad26a,STCHE-3,CAMP_DIW_01,P01,172,369.0,33% OFF,115,546,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+75,e88818,STCHE-7,CAMP_DIW_01,P06,415,82.0,25% OFF,311,79,Home Care,Atliq_Fusion_Container_Set_of_3
+76,b110d3,STCBE-3,CAMP_SAN_01,P06,415,18.0,25% OFF,311,14,Home Care,Atliq_Fusion_Container_Set_of_3
+77,6ed2f5,STBLR-4,CAMP_DIW_01,P13,350,84.0,BOGOF,175,285,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+78,4236be,STTRV-0,CAMP_SAN_01,P14,1020,70.0,BOGOF,510,280,Home Appliances,Atliq_waterproof_Immersion_Rod
+79,268ca2,STVJD-0,CAMP_SAN_01,P15,3000,63.0,500 Cashback,2500,151,Combo1,Atliq_Home_Essential_8_Product_Combo
+80,06c981,STHYD-2,CAMP_DIW_01,P14,1020,42.0,BOGOF,510,139,Home Appliances,Atliq_waterproof_Immersion_Rod
+81,b6b840,STCBE-1,CAMP_DIW_01,P02,860,244.0,33% OFF,576,312,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+82,8829ef,STCBE-0,CAMP_SAN_01,P12,62,39.0,50% OFF,31,61,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+83,41d6bd,STCHE-1,CAMP_SAN_01,P03,200,424.0,BOGOF,100,1127,Grocery & Staples,Atliq_Suflower_Oil (1L)
+84,d2a08d,STCHE-5,CAMP_DIW_01,P10,65,141.0,50% OFF,32,157,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+85,8b729b,STMDU-2,CAMP_SAN_01,P02,860,319.0,33% OFF,576,379,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+86,223d36,STMYS-0,CAMP_DIW_01,P10,65,129.0,50% OFF,32,167,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+87,85e08f,STVSK-4,CAMP_DIW_01,P08,1190,50.0,BOGOF,595,152,Home Care,Atliq_Double_Bedsheet_set
+88,1e9a06,STCHE-4,CAMP_DIW_01,P13,350,84.0,BOGOF,175,338,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+89,861506,STCHE-6,CAMP_DIW_01,P03,156,334.0,25% OFF,117,260,Grocery & Staples,Atliq_Suflower_Oil (1L)
+90,fedf26,STMLR-2,CAMP_SAN_01,P10,50,19.0,25% OFF,37,15,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+91,ce95b1,STCHE-2,CAMP_DIW_01,P12,62,119.0,50% OFF,31,138,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+92,2e3594,STMDU-0,CAMP_DIW_01,P13,350,61.0,BOGOF,175,237,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+93,46021e,STCHE-1,CAMP_SAN_01,P07,300,31.0,BOGOF,150,79,Home Care,Atliq_Curtains
+94,8e97d1,STBLR-7,CAMP_SAN_01,P09,90,72.0,25% OFF,67,58,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+95,716abd,STMYS-1,CAMP_SAN_01,P08,1190,54.0,BOGOF,595,238,Home Care,Atliq_Double_Bedsheet_set
+96,413f48,STVSK-0,CAMP_SAN_01,P14,1020,61.0,BOGOF,510,234,Home Appliances,Atliq_waterproof_Immersion_Rod
+97,aa6972,STMDU-0,CAMP_DIW_01,P12,62,103.0,50% OFF,31,131,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+98,c8ce63,STMDU-0,CAMP_DIW_01,P15,3000,369.0,500 Cashback,2500,1221,Combo1,Atliq_Home_Essential_8_Product_Combo
+99,3968a6,STMYS-3,CAMP_SAN_01,P05,55,19.0,25% OFF,41,16,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+100,166989,STCBE-1,CAMP_SAN_01,P01,172,169.0,33% OFF,115,206,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+101,ffb109,STVSK-2,CAMP_DIW_01,P15,3000,204.0,500 Cashback,2500,589,Combo1,Atliq_Home_Essential_8_Product_Combo
+102,ff43bf,STHYD-2,CAMP_DIW_01,P11,190,91.0,50% OFF,95,116,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+103,dee3e9,STCBE-0,CAMP_SAN_01,P03,200,384.0,BOGOF,100,1509,Grocery & Staples,Atliq_Suflower_Oil (1L)
+104,b9b7dd,STBLR-3,CAMP_DIW_01,P12,62,126.0,50% OFF,31,157,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+105,3c0536,STBLR-4,CAMP_SAN_01,P03,200,415.0,BOGOF,100,1622,Grocery & Staples,Atliq_Suflower_Oil (1L)
+106,4a5884,STHYD-0,CAMP_SAN_01,P12,62,57.0,50% OFF,31,90,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+107,a80b87,STVSK-0,CAMP_DIW_01,P11,190,49.0,50% OFF,95,76,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+108,feadc3,STCBE-0,CAMP_SAN_01,P05,55,21.0,25% OFF,41,19,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+109,61b929,STVSK-2,CAMP_DIW_01,P14,1020,33.0,BOGOF,510,109,Home Appliances,Atliq_waterproof_Immersion_Rod
+110,1824c2,STHYD-6,CAMP_SAN_01,P12,62,67.0,50% OFF,31,93,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+111,e025ee,STVSK-1,CAMP_SAN_01,P07,300,27.0,BOGOF,150,107,Home Care,Atliq_Curtains
+112,3cb389,STCHE-6,CAMP_DIW_01,P01,172,309.0,33% OFF,115,460,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+113,d304f9,STCHE-5,CAMP_DIW_01,P04,290,309.0,25% OFF,217,268,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+114,a9d059,STCHE-7,CAMP_DIW_01,P14,1020,50.0,BOGOF,510,202,Home Appliances,Atliq_waterproof_Immersion_Rod
+115,583386,STBLR-9,CAMP_SAN_01,P08,1190,63.0,BOGOF,595,254,Home Care,Atliq_Double_Bedsheet_set
+116,93118f,STVSK-0,CAMP_SAN_01,P03,200,261.0,BOGOF,100,1041,Grocery & Staples,Atliq_Suflower_Oil (1L)
+117,21a8a0,STBLR-4,CAMP_SAN_01,P01,172,286.0,33% OFF,115,394,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+118,d31787,STMYS-2,CAMP_SAN_01,P10,50,78.0,25% OFF,37,20,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+119,e918c8,STBLR-4,CAMP_SAN_01,P09,90,66.0,25% OFF,67,56,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+120,b999c5,STMYS-2,CAMP_SAN_01,P03,200,406.0,BOGOF,100,1015,Grocery & Staples,Atliq_Suflower_Oil (1L)
+121,627200,STCBE-4,CAMP_DIW_01,P14,1020,36.0,BOGOF,510,111,Home Appliances,Atliq_waterproof_Immersion_Rod
+122,ffdcb8,STHYD-6,CAMP_SAN_01,P02,860,454.0,33% OFF,576,644,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+123,ef7122,STMLR-1,CAMP_DIW_01,P15,3000,211.0,500 Cashback,2500,614,Combo1,Atliq_Home_Essential_8_Product_Combo
+124,4b515c,STVJD-1,CAMP_SAN_01,P02,860,274.0,33% OFF,576,394,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+125,4ad12b,STBLR-4,CAMP_DIW_01,P15,3000,407.0,500 Cashback,2500,1245,Combo1,Atliq_Home_Essential_8_Product_Combo
+126,353060,STBLR-7,CAMP_SAN_01,P11,190,45.0,50% OFF,95,73,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+127,6f3721,STMDU-3,CAMP_SAN_01,P13,350,118.0,BOGOF,175,464,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+128,0d70f7,STVSK-2,CAMP_DIW_01,P01,172,210.0,33% OFF,115,367,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+129,d58c29,STVSK-2,CAMP_SAN_01,P08,1190,27.0,BOGOF,595,107,Home Care,Atliq_Double_Bedsheet_set
+130,70e65e,STCBE-0,CAMP_DIW_01,P15,3000,320.0,500 Cashback,2500,937,Combo1,Atliq_Home_Essential_8_Product_Combo
+131,35701b,STVJD-0,CAMP_DIW_01,P04,290,192.0,25% OFF,217,188,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+132,f199be,STBLR-6,CAMP_DIW_01,P06,415,87.0,25% OFF,311,78,Home Care,Atliq_Fusion_Container_Set_of_3
+133,0a453f,STMYS-0,CAMP_DIW_01,P03,156,301.0,25% OFF,117,264,Grocery & Staples,Atliq_Suflower_Oil (1L)
+134,62769f,STMDU-3,CAMP_SAN_01,P05,55,16.0,25% OFF,41,12,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+135,f6aa36,STVSK-3,CAMP_DIW_01,P06,415,63.0,25% OFF,311,54,Home Care,Atliq_Fusion_Container_Set_of_3
+136,261bd6,STCHE-0,CAMP_DIW_01,P02,860,308.0,33% OFF,576,452,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+137,191614,STMYS-3,CAMP_DIW_01,P10,65,103.0,50% OFF,32,109,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+138,a672df,STMDU-1,CAMP_SAN_01,P12,62,36.0,50% OFF,31,49,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+139,870b25,STMYS-0,CAMP_SAN_01,P04,370,418.0,BOGOF,185,1116,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+140,141d98,STCHE-4,CAMP_SAN_01,P03,200,78.0,BOGOF,100,1695,Grocery & Staples,Atliq_Suflower_Oil (1L)
+141,1fa488,STVJD-0,CAMP_DIW_01,P07,300,31.0,BOGOF,150,105,Home Care,Atliq_Curtains
+142,1274dc,STCBE-4,CAMP_DIW_01,P09,110,54.0,50% OFF,55,68,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+143,bcbc28,STVSK-1,CAMP_DIW_01,P02,860,253.0,33% OFF,576,389,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+144,269cec,STBLR-6,CAMP_SAN_01,P02,860,532.0,33% OFF,576,813,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+145,fb2c04,STVSK-0,CAMP_SAN_01,P08,1190,28.0,BOGOF,595,108,Home Care,Atliq_Double_Bedsheet_set
+146,2.70E+61,STHYD-1,CAMP_DIW_01,P05,55,110.0,25% OFF,41,96,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+147,2b0a40,STHYD-2,CAMP_DIW_01,P13,350,82.0,BOGOF,175,273,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+148,6d343d,STHYD-6,CAMP_DIW_01,P12,62,133.0,50% OFF,31,167,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+149,df380c,STBLR-5,CAMP_SAN_01,P05,55,25.0,25% OFF,41,21,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+150,e67501,STVSK-4,CAMP_SAN_01,P13,350,85.0,BOGOF,175,215,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+151,bdf2b8,STVJD-1,CAMP_DIW_01,P12,62,56.0,50% OFF,31,71,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+152,6c1493,STVJD-1,CAMP_SAN_01,P15,3000,66.0,500 Cashback,2500,144,Combo1,Atliq_Home_Essential_8_Product_Combo
+153,6846a8,STVSK-0,CAMP_DIW_01,P04,290,201.0,25% OFF,217,174,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+154,a35a4f,STCHE-6,CAMP_DIW_01,P10,65,122.0,50% OFF,32,153,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+155,86206,STHYD-1,CAMP_SAN_01,P14,1020,102.0,BOGOF,510,279,Home Appliances,Atliq_waterproof_Immersion_Rod
+156,4ca50a,STHYD-3,CAMP_DIW_01,P08,1190,50.0,BOGOF,595,156,Home Care,Atliq_Double_Bedsheet_set
+157,04da18,STVSK-4,CAMP_SAN_01,P03,200,223.0,BOGOF,100,604,Grocery & Staples,Atliq_Suflower_Oil (1L)
+158,e97ac0,STTRV-0,CAMP_SAN_01,P12,62,22.0,50% OFF,31,30,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+159,c25b15,STHYD-6,CAMP_DIW_01,P07,300,63.0,BOGOF,150,218,Home Care,Atliq_Curtains
+160,793873,STVSK-2,CAMP_DIW_01,P03,156,248.0,25% OFF,117,225,Grocery & Staples,Atliq_Suflower_Oil (1L)
+161,aa1bbd,STCBE-0,CAMP_SAN_01,P10,50,25.0,25% OFF,37,22,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+162,873333,STMLR-0,CAMP_DIW_01,P15,3000,78.0,500 Cashback,2500,509,Combo1,Atliq_Home_Essential_8_Product_Combo
+163,eb967c,STMYS-1,CAMP_SAN_01,P15,3000,133.0,500 Cashback,2500,383,Combo1,Atliq_Home_Essential_8_Product_Combo
+164,b17786,STMLR-0,CAMP_SAN_01,P13,350,63.0,BOGOF,175,163,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+165,db76f3,STBLR-0,CAMP_DIW_01,P01,172,294.0,33% OFF,115,438,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+166,31b59d,STVSK-3,CAMP_SAN_01,P10,50,27.0,25% OFF,37,21,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+167,902903,STVSK-2,CAMP_DIW_01,P13,350,49.0,BOGOF,175,164,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+168,0ffbbc,STTRV-1,CAMP_SAN_01,P09,90,30.0,25% OFF,67,28,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+169,ad783e,STCHE-4,CAMP_SAN_01,P10,50,30.0,25% OFF,37,25,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+170,f63299,STVSK-0,CAMP_DIW_01,P02,860,301.0,33% OFF,576,526,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+171,66b476,STBLR-6,CAMP_DIW_01,P10,65,103.0,50% OFF,32,160,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+172,a6a18f,STHYD-6,CAMP_SAN_01,P06,415,34.0,25% OFF,311,27,Home Care,Atliq_Fusion_Container_Set_of_3
+173,933f7e,STCHE-7,CAMP_DIW_01,P07,300,71.0,BOGOF,150,282,Home Care,Atliq_Curtains
+174,0efde2,STCHE-7,CAMP_SAN_01,P03,200,448.0,BOGOF,100,1895,Grocery & Staples,Atliq_Suflower_Oil (1L)
+175,41cb8f,STBLR-6,CAMP_DIW_01,P03,156,402.0,25% OFF,117,353,Grocery & Staples,Atliq_Suflower_Oil (1L)
+176,fdd666,STMLR-0,CAMP_DIW_01,P06,415,38.0,25% OFF,311,33,Home Care,Atliq_Fusion_Container_Set_of_3
+177,87bb82,STCBE-0,CAMP_SAN_01,P15,3000,126.0,500 Cashback,2500,275,Combo1,Atliq_Home_Essential_8_Product_Combo
+178,e2f6b2,STCHE-1,CAMP_DIW_01,P15,3000,316.0,500 Cashback,2500,859,Combo1,Atliq_Home_Essential_8_Product_Combo
+179,7ef92f,STHYD-5,CAMP_SAN_01,P07,300,55.0,BOGOF,150,213,Home Care,Atliq_Curtains
+180,3ea7d6,STMYS-0,CAMP_SAN_01,P15,3000,105.0,500 Cashback,2500,173,Combo1,Atliq_Home_Essential_8_Product_Combo
+181,221da2,STCBE-3,CAMP_SAN_01,P15,3000,91.0,500 Cashback,2500,211,Combo1,Atliq_Home_Essential_8_Product_Combo
+182,4f255c,STHYD-1,CAMP_SAN_01,P08,1190,52.0,BOGOF,595,134,Home Care,Atliq_Double_Bedsheet_set
+183,20d916,STCBE-1,CAMP_DIW_01,P07,300,57.0,BOGOF,150,188,Home Care,Atliq_Curtains
+184,1192bc,STCBE-4,CAMP_DIW_01,P11,190,59.0,50% OFF,95,79,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+185,0d853d,STHYD-4,CAMP_SAN_01,P02,860,594.0,33% OFF,576,819,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+186,667c78,STVSK-4,CAMP_SAN_01,P01,172,223.0,33% OFF,115,301,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+187,3100ef,STBLR-5,CAMP_SAN_01,P09,90,67.0,25% OFF,67,56,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+188,49e9ea,STHYD-2,CAMP_SAN_01,P04,370,415.0,BOGOF,185,1672,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+189,ab6327,STHYD-1,CAMP_SAN_01,P04,370,444.0,BOGOF,185,1123,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+190,950a84,STBLR-9,CAMP_SAN_01,P11,190,52.0,50% OFF,95,73,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+191,680acd,STHYD-3,CAMP_SAN_01,P11,190,46.0,50% OFF,95,73,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+192,4ab9ba,STTRV-1,CAMP_SAN_01,P01,172,165.0,33% OFF,115,232,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+193,73564c,STBLR-5,CAMP_SAN_01,P11,190,43.0,50% OFF,95,63,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+194,23ef05,STVSK-0,CAMP_DIW_01,P12,62,78.0,50% OFF,31,121,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+195,0a4160,STCHE-7,CAMP_DIW_01,P03,156,330.0,25% OFF,117,323,Grocery & Staples,Atliq_Suflower_Oil (1L)
+196,7b0f7d,STVJD-1,CAMP_DIW_01,P01,172,180.0,33% OFF,115,255,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+197,1f083a,STVJD-0,CAMP_SAN_01,P06,415,16.0,25% OFF,311,14,Home Care,Atliq_Fusion_Container_Set_of_3
+198,60ba75,STVJD-0,CAMP_SAN_01,P13,350,60.0,BOGOF,175,234,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+199,d180ef,STBLR-7,CAMP_SAN_01,P01,172,341.0,33% OFF,115,531,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+200,c649ca,STMYS-1,CAMP_SAN_01,P02,860,595.0,33% OFF,576,886,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+201,3131b7,STMYS-3,CAMP_SAN_01,P09,90,54.0,25% OFF,67,45,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+202,74399f,STMYS-3,CAMP_DIW_01,P13,350,73.0,BOGOF,175,282,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+203,07ee94,STCHE-4,CAMP_DIW_01,P03,156,369.0,25% OFF,117,332,Grocery & Staples,Atliq_Suflower_Oil (1L)
+204,8376c6,STHYD-5,CAMP_SAN_01,P01,172,336.0,33% OFF,115,467,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+205,3ea719,STBLR-7,CAMP_DIW_01,P02,860,336.0,33% OFF,576,577,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+206,4001c4,STBLR-6,CAMP_SAN_01,P04,370,402.0,BOGOF,185,1652,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+207,87be33,STBLR-6,CAMP_SAN_01,P13,350,120.0,BOGOF,175,516,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+208,30b66a,STBLR-7,CAMP_DIW_01,P11,190,84.0,50% OFF,95,131,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+209,908a96,STHYD-4,CAMP_SAN_01,P12,62,52.0,50% OFF,31,72,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+210,58ce38,STBLR-3,CAMP_SAN_01,P13,350,118.0,BOGOF,175,455,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+211,2706c5,STMYS-2,CAMP_DIW_01,P12,62,77.0,50% OFF,31,97,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+212,ebbe5d,STCHE-2,CAMP_SAN_01,P06,415,25.0,25% OFF,311,22,Home Care,Atliq_Fusion_Container_Set_of_3
+213,b60e6a,STBLR-6,CAMP_SAN_01,P09,90,63.0,25% OFF,67,51,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+214,292ca5,STHYD-2,CAMP_DIW_01,P04,290,287.0,25% OFF,217,220,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+215,1130ea,STHYD-6,CAMP_DIW_01,P14,1020,45.0,BOGOF,510,155,Home Appliances,Atliq_waterproof_Immersion_Rod
+216,c092d4,STBLR-4,CAMP_DIW_01,P07,300,70.0,BOGOF,150,243,Home Care,Atliq_Curtains
+217,1b295f,STCHE-5,CAMP_DIW_01,P12,62,110.0,50% OFF,31,130,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+218,84a2f4,STCHE-7,CAMP_SAN_01,P04,370,423.0,BOGOF,185,1801,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+219,fe1a8b,STBLR-8,CAMP_SAN_01,P15,3000,126.0,500 Cashback,2500,278,Combo1,Atliq_Home_Essential_8_Product_Combo
+220,fc2170,STCBE-3,CAMP_SAN_01,P08,1190,40.0,BOGOF,595,158,Home Care,Atliq_Double_Bedsheet_set
+221,d0daaa,STMDU-1,CAMP_SAN_01,P14,1020,63.0,BOGOF,510,244,Home Appliances,Atliq_waterproof_Immersion_Rod
+222,8cd1ec,STCHE-1,CAMP_SAN_01,P13,350,124.0,BOGOF,175,324,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+223,2dd3f7,STHYD-4,CAMP_DIW_01,P03,156,341.0,25% OFF,117,327,Grocery & Staples,Atliq_Suflower_Oil (1L)
+224,c22ead,STBLR-6,CAMP_SAN_01,P11,190,43.0,50% OFF,95,66,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+225,fd788c,STVSK-1,CAMP_DIW_01,P11,190,43.0,50% OFF,95,58,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+226,d6cc80,STCHE-4,CAMP_DIW_01,P07,300,61.0,BOGOF,150,236,Home Care,Atliq_Curtains
+227,6e412f,STBLR-7,CAMP_SAN_01,P06,415,34.0,25% OFF,311,28,Home Care,Atliq_Fusion_Container_Set_of_3
+228,94102d,STBLR-4,CAMP_SAN_01,P12,62,64.0,50% OFF,31,92,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+229,e4b7e4,STHYD-6,CAMP_DIW_01,P09,110,78.0,50% OFF,55,102,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+230,e96e9d,STHYD-1,CAMP_DIW_01,P15,3000,362.0,500 Cashback,2500,959,Combo1,Atliq_Home_Essential_8_Product_Combo
+231,c6ca4d,STHYD-2,CAMP_SAN_01,P02,860,465.0,33% OFF,576,646,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+232,0c9f61,STBLR-7,CAMP_SAN_01,P03,200,433.0,BOGOF,100,1883,Grocery & Staples,Atliq_Suflower_Oil (1L)
+233,3c3c49,STCBE-2,CAMP_SAN_01,P08,1190,40.0,BOGOF,595,168,Home Care,Atliq_Double_Bedsheet_set
+234,ddddb3,STBLR-2,CAMP_DIW_01,P09,110,103.0,50% OFF,55,136,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+235,dd8425,STCHE-0,CAMP_SAN_01,P11,190,49.0,50% OFF,95,71,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+236,b83644,STBLR-6,CAMP_DIW_01,P11,190,75.0,50% OFF,95,117,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+237,17df71,STHYD-0,CAMP_SAN_01,P08,1190,46.0,BOGOF,595,179,Home Care,Atliq_Double_Bedsheet_set
+238,94cacb,STCHE-0,CAMP_SAN_01,P12,62,55.0,50% OFF,31,79,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+239,1490b8,STMDU-2,CAMP_SAN_01,P04,370,361.0,BOGOF,185,1397,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+240,75f30e,STCHE-2,CAMP_SAN_01,P15,3000,117.0,500 Cashback,2500,251,Combo1,Atliq_Home_Essential_8_Product_Combo
+241,e7f270,STVSK-0,CAMP_SAN_01,P01,172,211.0,33% OFF,115,322,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+242,a24528,STVSK-2,CAMP_DIW_01,P05,55,70.0,25% OFF,41,62,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+243,9a13a5,STHYD-4,CAMP_DIW_01,P11,190,82.0,50% OFF,95,107,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+244,311946,STBLR-5,CAMP_DIW_01,P05,55,119.0,25% OFF,41,107,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+245,7d5e81,STCHE-5,CAMP_SAN_01,P07,300,43.0,BOGOF,150,167,Home Care,Atliq_Curtains
+246,9a1d69,STMDU-3,CAMP_DIW_01,P01,172,292.0,33% OFF,115,373,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+247,4aa7ef,STHYD-1,CAMP_DIW_01,P07,300,59.0,BOGOF,150,176,Home Care,Atliq_Curtains
+248,ee68d9,STCHE-1,CAMP_SAN_01,P15,3000,136.0,500 Cashback,2500,242,Combo1,Atliq_Home_Essential_8_Product_Combo
+249,ebd35e,STBLR-8,CAMP_DIW_01,P04,290,323.0,25% OFF,217,251,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+250,4f76ac,STMYS-3,CAMP_DIW_01,P04,290,383.0,25% OFF,217,344,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+251,4fa17c,STCHE-4,CAMP_DIW_01,P01,172,327.0,33% OFF,115,503,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+252,9.57E+11,STHYD-1,CAMP_SAN_01,P15,3000,103.0,500 Cashback,2500,177,Combo1,Atliq_Home_Essential_8_Product_Combo
+253,5.88E+11,STHYD-3,CAMP_DIW_01,P12,62,112.0,50% OFF,31,178,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+254,d4ccb5,STCBE-1,CAMP_DIW_01,P05,55,61.0,25% OFF,41,50,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+255,15265d,STCHE-5,CAMP_SAN_01,P12,62,58.0,50% OFF,31,65,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+256,e5db3d,STCBE-0,CAMP_DIW_01,P08,1190,29.0,BOGOF,595,98,Home Care,Atliq_Double_Bedsheet_set
+257,46917a,STVSK-3,CAMP_DIW_01,P12,62,105.0,50% OFF,31,115,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+258,300664,STHYD-5,CAMP_DIW_01,P13,350,80.0,BOGOF,175,276,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+259,386fdc,STVSK-1,CAMP_DIW_01,P01,172,257.0,33% OFF,115,364,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+260,a08c5e,STMYS-2,CAMP_DIW_01,P05,55,99.0,25% OFF,41,88,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+261,b8c7c8,STHYD-6,CAMP_SAN_01,P10,50,31.0,25% OFF,37,26,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+262,417902,STMDU-0,CAMP_DIW_01,P08,1190,29.0,BOGOF,595,116,Home Care,Atliq_Double_Bedsheet_set
+263,53a947,STBLR-1,CAMP_SAN_01,P06,415,39.0,25% OFF,311,36,Home Care,Atliq_Fusion_Container_Set_of_3
+264,00a7c3,STTRV-1,CAMP_SAN_01,P02,860,231.0,33% OFF,576,314,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+265,d85264,STMLR-1,CAMP_SAN_01,P07,300,30.0,BOGOF,150,120,Home Care,Atliq_Curtains
+266,4d9f1a,STCBE-1,CAMP_DIW_01,P09,110,59.0,50% OFF,55,69,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+267,e23132,STVJD-0,CAMP_DIW_01,P08,1190,26.0,BOGOF,595,86,Home Care,Atliq_Double_Bedsheet_set
+268,4e42b9,STHYD-4,CAMP_SAN_01,P03,200,376.0,BOGOF,100,1447,Grocery & Staples,Atliq_Suflower_Oil (1L)
+269,f013a9,STMYS-2,CAMP_SAN_01,P14,1020,105.0,BOGOF,510,276,Home Appliances,Atliq_waterproof_Immersion_Rod
+270,84aa9b,STCHE-0,CAMP_SAN_01,P02,860,424.0,33% OFF,576,580,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+271,b97dfe,STBLR-2,CAMP_DIW_01,P07,300,56.0,BOGOF,150,196,Home Care,Atliq_Curtains
+272,565a38,STTRV-0,CAMP_SAN_01,P07,300,30.0,BOGOF,150,117,Home Care,Atliq_Curtains
+273,8724c8,STCBE-4,CAMP_SAN_01,P04,370,363.0,BOGOF,185,990,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+274,a4fb0b,STMDU-0,CAMP_SAN_01,P02,860,318.0,33% OFF,576,448,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+275,91fec3,STMYS-1,CAMP_DIW_01,P06,415,101.0,25% OFF,311,79,Home Care,Atliq_Fusion_Container_Set_of_3
+276,2b50e0,STBLR-6,CAMP_DIW_01,P15,3000,390.0,500 Cashback,2500,1318,Combo1,Atliq_Home_Essential_8_Product_Combo
+277,94953c,STMLR-2,CAMP_SAN_01,P06,415,15.0,25% OFF,311,12,Home Care,Atliq_Fusion_Container_Set_of_3
+278,ea916f,STTRV-0,CAMP_SAN_01,P10,50,18.0,25% OFF,37,16,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+279,8ff2bb,STBLR-2,CAMP_SAN_01,P06,415,40.0,25% OFF,311,33,Home Care,Atliq_Fusion_Container_Set_of_3
+280,152ae4,STHYD-1,CAMP_SAN_01,P12,62,51.0,50% OFF,31,57,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+281,e93b62,STCHE-2,CAMP_SAN_01,P04,370,513.0,BOGOF,185,2067,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+282,19e2f0,STCHE-7,CAMP_SAN_01,P11,190,58.0,50% OFF,95,81,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+283,a937e8,STMDU-3,CAMP_SAN_01,P14,1020,87.0,BOGOF,510,347,Home Appliances,Atliq_waterproof_Immersion_Rod
+284,6321fa,STCHE-3,CAMP_SAN_01,P10,50,31.0,25% OFF,37,26,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+285,fd48ff,STCBE-0,CAMP_SAN_01,P04,370,367.0,BOGOF,185,1423,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+286,4572a3,STCHE-1,CAMP_SAN_01,P11,190,48.0,50% OFF,95,55,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+287,e3929b,STMYS-0,CAMP_DIW_01,P12,62,98.0,50% OFF,31,128,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+288,b08c12,STMDU-3,CAMP_DIW_01,P03,156,227.0,25% OFF,117,202,Grocery & Staples,Atliq_Suflower_Oil (1L)
+289,a0017b,STCBE-4,CAMP_SAN_01,P05,55,16.0,25% OFF,41,12,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+290,400cab,STCHE-4,CAMP_SAN_01,P02,860,642.0,33% OFF,576,918,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+291,5ce72d,STMLR-2,CAMP_SAN_01,P11,190,24.0,50% OFF,95,27,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+292,4e0e90,STVSK-2,CAMP_DIW_01,P12,62,80.0,50% OFF,31,124,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+293,73c8f5,STVSK-3,CAMP_DIW_01,P01,172,229.0,33% OFF,115,293,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+294,43feca,STMDU-3,CAMP_DIW_01,P13,350,56.0,BOGOF,175,184,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+295,30c488,STTRV-0,CAMP_SAN_01,P01,172,132.0,33% OFF,115,187,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+296,fc7056,STBLR-2,CAMP_DIW_01,P08,1190,40.0,BOGOF,595,135,Home Care,Atliq_Double_Bedsheet_set
+297,eacf93,STTRV-1,CAMP_SAN_01,P11,190,24.0,50% OFF,95,34,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+298,7f650b,STCBE-2,CAMP_SAN_01,P11,190,34.0,50% OFF,95,52,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+299,1f03e5,STVJD-0,CAMP_DIW_01,P13,350,45.0,BOGOF,175,157,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+300,7a6449,STHYD-3,CAMP_DIW_01,P10,65,131.0,50% OFF,32,203,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+301,7c51b1,STCBE-0,CAMP_DIW_01,P09,110,59.0,50% OFF,55,89,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+302,f8a417,STCBE-4,CAMP_SAN_01,P12,62,37.0,50% OFF,31,53,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+303,d7798b,STMYS-2,CAMP_SAN_01,P02,860,484.0,33% OFF,576,677,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+304,af646e,STHYD-4,CAMP_SAN_01,P11,190,54.0,50% OFF,95,78,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+305,b7db9e,STHYD-4,CAMP_DIW_01,P05,55,106.0,25% OFF,41,101,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+306,c43947,STHYD-5,CAMP_SAN_01,P06,415,39.0,25% OFF,311,35,Home Care,Atliq_Fusion_Container_Set_of_3
+307,d91475,STMYS-0,CAMP_DIW_01,P07,300,61.0,BOGOF,150,189,Home Care,Atliq_Curtains
+308,fc2f67,STBLR-5,CAMP_SAN_01,P06,415,34.0,25% OFF,311,27,Home Care,Atliq_Fusion_Container_Set_of_3
+309,d4fced,STHYD-0,CAMP_SAN_01,P13,350,132.0,BOGOF,175,520,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+310,b666fa,STTRV-1,CAMP_DIW_01,P05,55,57.0,25% OFF,41,55,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+311,55b461,STMDU-0,CAMP_SAN_01,P06,415,21.0,25% OFF,311,17,Home Care,Atliq_Fusion_Container_Set_of_3
+312,677e2c,STHYD-1,CAMP_SAN_01,P13,350,122.0,BOGOF,175,326,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+313,b91c31,STMYS-1,CAMP_DIW_01,P05,55,89.0,25% OFF,41,71,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+314,61089e,STHYD-5,CAMP_SAN_01,P04,370,412.0,BOGOF,185,1615,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+315,c198da,STMDU-2,CAMP_SAN_01,P06,415,19.0,25% OFF,311,15,Home Care,Atliq_Fusion_Container_Set_of_3
+316,66050c,STCHE-6,CAMP_SAN_01,P08,1190,60.0,BOGOF,595,238,Home Care,Atliq_Double_Bedsheet_set
+317,3.59E+89,STBLR-3,CAMP_SAN_01,P06,415,22.0,25% OFF,311,16,Home Care,Atliq_Fusion_Container_Set_of_3
+318,ac0b82,STMYS-0,CAMP_DIW_01,P04,290,234.0,25% OFF,217,205,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+319,41b8f8,STBLR-0,CAMP_DIW_01,P08,1190,56.0,BOGOF,595,220,Home Care,Atliq_Double_Bedsheet_set
+320,89bbca,STCBE-4,CAMP_DIW_01,P13,350,42.0,BOGOF,175,128,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+321,718bb4,STHYD-2,CAMP_DIW_01,P12,62,129.0,50% OFF,31,165,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+322,250dee,STCHE-0,CAMP_SAN_01,P01,172,237.0,33% OFF,115,341,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+323,0dfaac,STCHE-6,CAMP_DIW_01,P02,860,434.0,33% OFF,576,629,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+324,13fd74,STMDU-3,CAMP_DIW_01,P05,55,64.0,25% OFF,41,58,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+325,80255e,STMDU-0,CAMP_DIW_01,P05,55,57.0,25% OFF,41,50,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+326,19352c,STBLR-4,CAMP_SAN_01,P02,860,501.0,33% OFF,576,701,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+327,0a2689,STBLR-8,CAMP_SAN_01,P12,62,55.0,50% OFF,31,77,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+328,0b51fe,STHYD-3,CAMP_SAN_01,P10,50,39.0,25% OFF,37,29,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+329,19d7b5,STMYS-1,CAMP_SAN_01,P03,200,382.0,BOGOF,100,1596,Grocery & Staples,Atliq_Suflower_Oil (1L)
+330,1bff17,STCHE-6,CAMP_DIW_01,P05,55,112.0,25% OFF,41,85,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+331,0edad5,STTRV-1,CAMP_SAN_01,P13,350,51.0,BOGOF,175,205,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+332,0491f4,STVSK-2,CAMP_DIW_01,P11,190,38.0,50% OFF,95,58,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+333,ffcda1,STVJD-0,CAMP_DIW_01,P11,190,42.0,50% OFF,95,55,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+334,5f2bb8,STBLR-8,CAMP_SAN_01,P11,190,45.0,50% OFF,95,62,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+335,df45ee,STHYD-3,CAMP_DIW_01,P01,172,309.0,33% OFF,115,534,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+336,8f3699,STVSK-3,CAMP_DIW_01,P03,156,196.0,25% OFF,117,174,Grocery & Staples,Atliq_Suflower_Oil (1L)
+337,99482c,STBLR-8,CAMP_SAN_01,P08,1190,42.0,BOGOF,595,161,Home Care,Atliq_Double_Bedsheet_set
+338,d6ff76,STMDU-2,CAMP_DIW_01,P14,1020,28.0,BOGOF,510,96,Home Appliances,Atliq_waterproof_Immersion_Rod
+339,55fed8,STCBE-3,CAMP_DIW_01,P09,110,40.0,50% OFF,55,60,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+340,2ef46d,STMDU-0,CAMP_DIW_01,P02,860,78.0,33% OFF,576,430,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+341,0a45d8,STTRV-0,CAMP_DIW_01,P02,860,196.0,33% OFF,576,303,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+342,53b2fd,STHYD-6,CAMP_DIW_01,P01,172,320.0,33% OFF,115,467,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+343,6436da,STMDU-1,CAMP_SAN_01,P08,1190,30.0,BOGOF,595,118,Home Care,Atliq_Double_Bedsheet_set
+344,fd5855,STVSK-4,CAMP_SAN_01,P08,1190,25.0,BOGOF,595,64,Home Care,Atliq_Double_Bedsheet_set
+345,a5800c,STMYS-3,CAMP_SAN_01,P12,62,60.0,50% OFF,31,67,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+346,93dff2,STBLR-3,CAMP_DIW_01,P03,156,390.0,25% OFF,117,308,Grocery & Staples,Atliq_Suflower_Oil (1L)
+347,6edb42,STBLR-8,CAMP_SAN_01,P10,50,36.0,25% OFF,37,26,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+348,1c4a78,STMLR-2,CAMP_SAN_01,P12,62,27.0,50% OFF,31,31,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+349,e57227,STCHE-6,CAMP_SAN_01,P05,55,25.0,25% OFF,41,18,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+350,4f40ed,STCHE-5,CAMP_SAN_01,P02,860,564.0,33% OFF,576,721,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+351,46ee5a,STCBE-3,CAMP_DIW_01,P04,290,246.0,25% OFF,217,214,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+352,0da7fd,STVSK-0,CAMP_SAN_01,P02,860,408.0,33% OFF,576,632,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+353,9e82db,STMDU-1,CAMP_DIW_01,P05,55,92.0,25% OFF,41,79,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+354,17537,STMDU-2,CAMP_SAN_01,P08,1190,33.0,BOGOF,595,129,Home Care,Atliq_Double_Bedsheet_set
+355,f21f4c,STVSK-3,CAMP_DIW_01,P09,110,50.0,50% OFF,55,58,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+356,0f3f34,STCHE-1,CAMP_DIW_01,P06,415,99.0,25% OFF,311,87,Home Care,Atliq_Fusion_Container_Set_of_3
+357,695cd9,STTRV-1,CAMP_SAN_01,P07,300,21.0,BOGOF,150,82,Home Care,Atliq_Curtains
+358,66f526,STVJD-0,CAMP_SAN_01,P10,50,18.0,25% OFF,37,16,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+359,4b411a,STVJD-0,CAMP_DIW_01,P15,3000,218.0,500 Cashback,2500,673,Combo1,Atliq_Home_Essential_8_Product_Combo
+360,f95092,STVSK-1,CAMP_SAN_01,P13,350,124.0,BOGOF,175,500,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+361,276150,STCBE-3,CAMP_SAN_01,P07,300,33.0,BOGOF,150,128,Home Care,Atliq_Curtains
+362,52d20e,STHYD-1,CAMP_DIW_01,P10,65,134.0,50% OFF,32,156,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+363,6b26bc,STHYD-2,CAMP_SAN_01,P05,55,24.0,25% OFF,41,18,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+364,284539,STCHE-3,CAMP_SAN_01,P03,200,384.0,BOGOF,100,1678,Grocery & Staples,Atliq_Suflower_Oil (1L)
+365,ad9ba5,STHYD-5,CAMP_DIW_01,P01,172,337.0,33% OFF,115,485,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+366,7151bb,STBLR-6,CAMP_DIW_01,P13,350,98.0,BOGOF,175,372,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+367,2c893f,STCHE-3,CAMP_DIW_01,P12,62,103.0,50% OFF,31,129,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+368,da99ec,STCHE-5,CAMP_DIW_01,P14,1020,54.0,BOGOF,510,184,Home Appliances,Atliq_waterproof_Immersion_Rod
+369,543c36,STHYD-4,CAMP_SAN_01,P07,300,58.0,BOGOF,150,225,Home Care,Atliq_Curtains
+370,4c7359,STVSK-2,CAMP_SAN_01,P09,90,43.0,25% OFF,67,35,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+371,99ce6a,STVSK-3,CAMP_SAN_01,P03,200,250.0,BOGOF,100,687,Grocery & Staples,Atliq_Suflower_Oil (1L)
+372,6a1564,STMDU-3,CAMP_DIW_01,P15,3000,334.0,500 Cashback,2500,1022,Combo1,Atliq_Home_Essential_8_Product_Combo
+373,bd1314,STMYS-2,CAMP_SAN_01,P05,55,37.0,25% OFF,41,30,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+374,3.56E+10,STMDU-3,CAMP_SAN_01,P08,1190,36.0,BOGOF,595,145,Home Care,Atliq_Double_Bedsheet_set
+375,0ba095,STCBE-1,CAMP_DIW_01,P03,156,274.0,25% OFF,117,210,Grocery & Staples,Atliq_Suflower_Oil (1L)
+376,e788e5,STMYS-0,CAMP_SAN_01,P10,50,30.0,25% OFF,37,24,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+377,e0a83a,STBLR-8,CAMP_DIW_01,P07,300,63.0,BOGOF,150,221,Home Care,Atliq_Curtains
+378,d2b963,STVJD-0,CAMP_SAN_01,P14,1020,48.0,BOGOF,510,187,Home Appliances,Atliq_waterproof_Immersion_Rod
+379,f725c0,STCBE-3,CAMP_SAN_01,P03,200,228.0,BOGOF,100,898,Grocery & Staples,Atliq_Suflower_Oil (1L)
+380,f57184,STHYD-5,CAMP_SAN_01,P05,55,21.0,25% OFF,41,18,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+381,512d92,STCHE-4,CAMP_DIW_01,P09,110,87.0,50% OFF,55,115,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+382,9ce293,STMDU-1,CAMP_SAN_01,P03,200,255.0,BOGOF,100,1009,Grocery & Staples,Atliq_Suflower_Oil (1L)
+383,e31e72,STHYD-4,CAMP_SAN_01,P10,50,33.0,25% OFF,37,31,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+384,6c7601,STCBE-2,CAMP_SAN_01,P14,1020,78.0,BOGOF,510,334,Home Appliances,Atliq_waterproof_Immersion_Rod
+385,7a2a47,STBLR-7,CAMP_DIW_01,P07,300,64.0,BOGOF,150,254,Home Care,Atliq_Curtains
+386,434698,STVSK-0,CAMP_SAN_01,P12,62,39.0,50% OFF,31,63,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+387,ca3893,STMYS-1,CAMP_SAN_01,P09,90,52.0,25% OFF,67,39,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+388,933cae,STCHE-3,CAMP_SAN_01,P06,415,28.0,25% OFF,311,23,Home Care,Atliq_Fusion_Container_Set_of_3
+389,7.34E+11,STCHE-0,CAMP_DIW_01,P06,415,105.0,25% OFF,311,92,Home Care,Atliq_Fusion_Container_Set_of_3
+390,5372de,STCBE-3,CAMP_SAN_01,P10,50,78.0,25% OFF,37,22,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+391,5729c0,STMYS-2,CAMP_SAN_01,P04,370,240.0,BOGOF,185,636,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+392,cd36b2,STCHE-4,CAMP_DIW_01,P10,65,127.0,50% OFF,32,168,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+393,8f2a5a,STVSK-2,CAMP_SAN_01,P11,190,25.0,50% OFF,95,37,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+394,6.24E+11,STMLR-0,CAMP_SAN_01,P03,200,206.0,BOGOF,100,541,Grocery & Staples,Atliq_Suflower_Oil (1L)
+395,d46611,STMLR-2,CAMP_DIW_01,P05,55,47.0,25% OFF,41,40,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+396,4e3a3d,STVJD-0,CAMP_DIW_01,P02,860,197.0,33% OFF,576,285,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+397,50802a,STCHE-3,CAMP_DIW_01,P07,300,64.0,BOGOF,150,257,Home Care,Atliq_Curtains
+398,4e7ca5,STMYS-1,CAMP_DIW_01,P07,300,54.0,BOGOF,150,219,Home Care,Atliq_Curtains
+399,4ad894,STMLR-1,CAMP_DIW_01,P03,156,192.0,25% OFF,117,165,Grocery & Staples,Atliq_Suflower_Oil (1L)
+400,6422b4,STCBE-0,CAMP_DIW_01,P01,172,255.0,33% OFF,115,425,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+401,8e6e77,STBLR-0,CAMP_SAN_01,P08,1190,37.0,BOGOF,595,156,Home Care,Atliq_Double_Bedsheet_set
+402,252235,STHYD-4,CAMP_DIW_01,P07,300,64.0,BOGOF,150,223,Home Care,Atliq_Curtains
+403,8aa62d,STCHE-2,CAMP_SAN_01,P12,62,67.0,50% OFF,31,74,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+404,e24a3a,STVSK-1,CAMP_DIW_01,P07,300,49.0,BOGOF,150,170,Home Care,Atliq_Curtains
+405,f98db5,STBLR-2,CAMP_SAN_01,P15,3000,129.0,500 Cashback,2500,279,Combo1,Atliq_Home_Essential_8_Product_Combo
+406,35fb5b,STCBE-2,CAMP_DIW_01,P13,350,50.0,BOGOF,175,190,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+407,390df2,STBLR-0,CAMP_SAN_01,P06,415,31.0,25% OFF,311,26,Home Care,Atliq_Fusion_Container_Set_of_3
+408,f21ef6,STMLR-1,CAMP_SAN_01,P06,415,18.0,25% OFF,311,14,Home Care,Atliq_Fusion_Container_Set_of_3
+409,bae5cb,STVSK-3,CAMP_SAN_01,P11,190,34.0,50% OFF,95,39,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+410,ee63b3,STHYD-4,CAMP_DIW_01,P02,860,362.0,33% OFF,576,521,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+411,72eed8,STHYD-4,CAMP_DIW_01,P04,290,376.0,25% OFF,217,360,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+412,aaea9e,STTRV-0,CAMP_DIW_01,P10,65,68.0,50% OFF,32,93,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+413,496b80,STHYD-4,CAMP_SAN_01,P15,3000,118.0,500 Cashback,2500,253,Combo1,Atliq_Home_Essential_8_Product_Combo
+414,5d5637,STCHE-0,CAMP_DIW_01,P09,110,94.0,50% OFF,55,119,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+415,ac0b1c,STMYS-3,CAMP_SAN_01,P14,1020,78.0,BOGOF,510,331,Home Appliances,Atliq_waterproof_Immersion_Rod
+416,5a21a5,STBLR-4,CAMP_SAN_01,P10,50,31.0,25% OFF,37,26,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+417,ab3517,STTRV-1,CAMP_SAN_01,P04,370,190.0,BOGOF,185,733,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+418,a1e541,STHYD-1,CAMP_DIW_01,P01,172,311.0,33% OFF,115,385,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+419,af2b25,STBLR-7,CAMP_DIW_01,P13,350,85.0,BOGOF,175,338,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+420,5d23c1,STVSK-4,CAMP_SAN_01,P12,62,40.0,50% OFF,31,58,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+421,491ff2,STVJD-1,CAMP_SAN_01,P12,62,30.0,50% OFF,31,42,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+422,7cf0d8,STMDU-0,CAMP_SAN_01,P14,1020,79.0,BOGOF,510,349,Home Appliances,Atliq_waterproof_Immersion_Rod
+423,86a92b,STMLR-2,CAMP_DIW_01,P11,190,42.0,50% OFF,95,45,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+424,315542,STVJD-1,CAMP_SAN_01,P03,200,183.0,BOGOF,100,710,Grocery & Staples,Atliq_Suflower_Oil (1L)
+425,17d5c1,STCBE-0,CAMP_DIW_01,P13,350,52.0,BOGOF,175,173,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+426,e98f37,STBLR-3,CAMP_DIW_01,P08,1190,43.0,BOGOF,595,145,Home Care,Atliq_Double_Bedsheet_set
+427,a2fd0b,STBLR-6,CAMP_DIW_01,P12,62,112.0,50% OFF,31,165,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+428,6ec0eb,STCHE-2,CAMP_DIW_01,P15,3000,369.0,500 Cashback,2500,1073,Combo1,Atliq_Home_Essential_8_Product_Combo
+429,dead78,STVJD-0,CAMP_DIW_01,P12,62,68.0,50% OFF,31,90,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+430,a0a2ec,STBLR-8,CAMP_SAN_01,P01,172,346.0,33% OFF,115,491,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+431,2e3393,STCHE-3,CAMP_SAN_01,P14,1020,112.0,BOGOF,510,460,Home Appliances,Atliq_waterproof_Immersion_Rod
+432,cf4f71,STHYD-0,CAMP_SAN_01,P01,172,250.0,33% OFF,115,382,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+433,5c8b9f,STMDU-1,CAMP_DIW_01,P01,172,187.0,33% OFF,115,289,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+434,cd4812,STMDU-3,CAMP_DIW_01,P07,300,47.0,BOGOF,150,162,Home Care,Atliq_Curtains
+435,73ad85,STHYD-5,CAMP_DIW_01,P05,55,106.0,25% OFF,41,102,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+436,1c7c7f,STBLR-8,CAMP_DIW_01,P14,1020,52.0,BOGOF,510,178,Home Appliances,Atliq_waterproof_Immersion_Rod
+437,f94d7b,STMDU-2,CAMP_SAN_01,P13,350,96.0,BOGOF,175,377,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+438,6444b7,STCHE-2,CAMP_DIW_01,P06,415,85.0,25% OFF,311,81,Home Care,Atliq_Fusion_Container_Set_of_3
+439,bf33ae,STMYS-0,CAMP_DIW_01,P14,1020,59.0,BOGOF,510,182,Home Appliances,Atliq_waterproof_Immersion_Rod
+440,0f750a,STBLR-0,CAMP_SAN_01,P02,860,451.0,33% OFF,576,613,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+441,5abaf9,STCHE-3,CAMP_SAN_01,P07,300,37.0,BOGOF,150,155,Home Care,Atliq_Curtains
+442,d8f51c,STMYS-1,CAMP_DIW_01,P15,3000,449.0,500 Cashback,2500,1499,Combo1,Atliq_Home_Essential_8_Product_Combo
+443,731f58,STMYS-0,CAMP_SAN_01,P05,55,28.0,25% OFF,41,22,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+444,e8d896,STCHE-1,CAMP_SAN_01,P10,50,40.0,25% OFF,37,33,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+445,d105db,STCBE-4,CAMP_SAN_01,P07,300,43.0,BOGOF,150,111,Home Care,Atliq_Curtains
+446,01b425,STMYS-3,CAMP_DIW_01,P09,110,68.0,50% OFF,55,76,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+447,d31554,STMDU-2,CAMP_DIW_01,P05,55,80.0,25% OFF,41,70,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+448,0c0926,STMDU-3,CAMP_DIW_01,P08,1190,26.0,BOGOF,595,91,Home Care,Atliq_Double_Bedsheet_set
+449,4f75fe,STMYS-2,CAMP_DIW_01,P08,1190,42.0,BOGOF,595,123,Home Care,Atliq_Double_Bedsheet_set
+450,b0ab6c,STHYD-4,CAMP_SAN_01,P06,415,34.0,25% OFF,311,31,Home Care,Atliq_Fusion_Container_Set_of_3
+451,166a02,STCHE-6,CAMP_SAN_01,P13,350,111.0,BOGOF,175,445,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+452,bac74e,STBLR-9,CAMP_SAN_01,P01,172,319.0,33% OFF,115,449,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+453,a617b5,STHYD-4,CAMP_SAN_01,P14,1020,102.0,BOGOF,510,410,Home Appliances,Atliq_waterproof_Immersion_Rod
+454,a1503f,STCBE-1,CAMP_DIW_01,P15,3000,329.0,500 Cashback,2500,1000,Combo1,Atliq_Home_Essential_8_Product_Combo
+455,3133f3,STCHE-5,CAMP_SAN_01,P09,90,63.0,25% OFF,67,53,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+456,6ee2af,STHYD-3,CAMP_SAN_01,P02,860,595.0,33% OFF,576,892,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+457,1e2a0e,STBLR-9,CAMP_DIW_01,P01,172,329.0,33% OFF,115,467,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+458,4692bf,STMLR-0,CAMP_SAN_01,P04,370,267.0,BOGOF,185,731,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+459,e621c9,STMLR-0,CAMP_SAN_01,P11,190,27.0,50% OFF,95,39,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+460,35637b,STVSK-4,CAMP_DIW_01,P03,156,301.0,25% OFF,117,237,Grocery & Staples,Atliq_Suflower_Oil (1L)
+461,879d9a,STBLR-2,CAMP_DIW_01,P15,3000,318.0,500 Cashback,2500,915,Combo1,Atliq_Home_Essential_8_Product_Combo
+462,aeed36,STBLR-6,CAMP_SAN_01,P12,62,54.0,50% OFF,31,83,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+463,11578,STHYD-3,CAMP_SAN_01,P14,1020,87.0,BOGOF,510,236,Home Appliances,Atliq_waterproof_Immersion_Rod
+464,d834f0,STMYS-3,CAMP_SAN_01,P08,1190,34.0,BOGOF,595,147,Home Care,Atliq_Double_Bedsheet_set
+465,9e2de4,STMLR-0,CAMP_SAN_01,P07,300,21.0,BOGOF,150,54,Home Care,Atliq_Curtains
+466,461ad4,STTRV-1,CAMP_DIW_01,P09,110,42.0,50% OFF,55,55,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+467,3181a7,STCBE-1,CAMP_SAN_01,P11,190,28.0,50% OFF,95,31,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+468,f1421a,STMDU-2,CAMP_SAN_01,P09,90,49.0,25% OFF,67,39,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+469,e391bc,STHYD-0,CAMP_DIW_01,P09,110,77.0,50% OFF,55,113,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+470,2cbc21,STHYD-1,CAMP_SAN_01,P09,90,58.0,25% OFF,67,47,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+471,406a98,STBLR-5,CAMP_SAN_01,P01,172,264.0,33% OFF,115,361,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+472,0690d9,STHYD-3,CAMP_DIW_01,P15,3000,418.0,500 Cashback,2500,1082,Combo1,Atliq_Home_Essential_8_Product_Combo
+473,f39a0c,STHYD-3,CAMP_SAN_01,P09,90,49.0,25% OFF,67,37,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+474,8f25a6,STHYD-6,CAMP_SAN_01,P15,3000,126.0,500 Cashback,2500,302,Combo1,Atliq_Home_Essential_8_Product_Combo
+475,7a22bc,STBLR-6,CAMP_DIW_01,P01,172,283.0,33% OFF,115,492,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+476,04f19c,STMYS-0,CAMP_DIW_01,P08,1190,50.0,BOGOF,595,146,Home Care,Atliq_Double_Bedsheet_set
+477,3beb46,STMYS-2,CAMP_SAN_01,P13,350,81.0,BOGOF,175,208,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+478,fd5955,STCBE-0,CAMP_DIW_01,P02,860,313.0,33% OFF,576,541,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+479,0beb9b,STVSK-2,CAMP_SAN_01,P12,62,28.0,50% OFF,31,43,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+480,8cbaa3,STHYD-2,CAMP_SAN_01,P08,1190,60.0,BOGOF,595,238,Home Care,Atliq_Double_Bedsheet_set
+481,7d3d63,STCHE-1,CAMP_DIW_01,P13,350,68.0,BOGOF,175,205,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+482,693b77,STMLR-0,CAMP_DIW_01,P12,62,70.0,50% OFF,31,88,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+483,494f1b,STVSK-2,CAMP_SAN_01,P13,350,94.0,BOGOF,175,374,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+484,0f714a,STVJD-1,CAMP_SAN_01,P06,415,16.0,25% OFF,311,11,Home Care,Atliq_Fusion_Container_Set_of_3
+485,3906da,STMLR-2,CAMP_SAN_01,P09,90,33.0,25% OFF,67,27,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+486,6a54d2,STCHE-5,CAMP_SAN_01,P01,172,303.0,33% OFF,115,360,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+487,7cf9ef,STMDU-3,CAMP_DIW_01,P11,190,66.0,50% OFF,95,71,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+488,4162d7,STHYD-2,CAMP_DIW_01,P05,55,110.0,25% OFF,41,86,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+489,5c6465,STHYD-5,CAMP_SAN_01,P08,1190,36.0,BOGOF,595,139,Home Care,Atliq_Double_Bedsheet_set
+490,9ff4a9,STMDU-1,CAMP_DIW_01,P10,65,94.0,50% OFF,32,120,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+491,c1cdb5,STCHE-0,CAMP_SAN_01,P15,3000,135.0,500 Cashback,2500,286,Combo1,Atliq_Home_Essential_8_Product_Combo
+492,c1e0b6,STCHE-6,CAMP_SAN_01,P01,172,273.0,33% OFF,115,379,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+493,bb77b1,STMYS-3,CAMP_DIW_01,P14,1020,54.0,BOGOF,510,206,Home Appliances,Atliq_waterproof_Immersion_Rod
+494,dd9914,STVSK-1,CAMP_DIW_01,P10,65,98.0,50% OFF,32,132,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+495,da5d21,STBLR-9,CAMP_DIW_01,P10,65,92.0,50% OFF,32,125,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+496,ae5745,STCBE-4,CAMP_DIW_01,P06,415,68.0,25% OFF,311,61,Home Care,Atliq_Fusion_Container_Set_of_3
+497,35463c,STCBE-0,CAMP_DIW_01,P04,290,211.0,25% OFF,217,202,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+498,4ced30,STCHE-3,CAMP_SAN_01,P09,90,60.0,25% OFF,67,49,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+499,4f1bb6,STMYS-0,CAMP_SAN_01,P11,190,46.0,50% OFF,95,63,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+500,e7bb4f,STMDU-2,CAMP_DIW_01,P13,350,45.0,BOGOF,175,148,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+501,1f1b71,STMDU-3,CAMP_SAN_01,P01,172,214.0,33% OFF,115,267,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+502,90b2fb,STCHE-6,CAMP_DIW_01,P07,300,59.0,BOGOF,150,201,Home Care,Atliq_Curtains
+503,adf52a,STBLR-6,CAMP_DIW_01,P14,1020,47.0,BOGOF,510,179,Home Appliances,Atliq_waterproof_Immersion_Rod
+504,ff8f10,STMDU-0,CAMP_SAN_01,P11,190,34.0,50% OFF,95,47,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+505,792708,STBLR-5,CAMP_SAN_01,P13,350,115.0,BOGOF,175,445,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+506,07e4ea,STHYD-6,CAMP_SAN_01,P04,370,486.0,BOGOF,185,1890,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+507,c8670a,STCHE-0,CAMP_DIW_01,P15,3000,343.0,500 Cashback,2500,1056,Combo1,Atliq_Home_Essential_8_Product_Combo
+508,8.02E+96,STBLR-4,CAMP_DIW_01,P11,190,91.0,50% OFF,95,116,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+509,886ef2,STMLR-2,CAMP_DIW_01,P08,1190,22.0,BOGOF,595,73,Home Care,Atliq_Double_Bedsheet_set
+510,591730,STBLR-2,CAMP_SAN_01,P09,90,64.0,25% OFF,67,53,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+511,1809f2,STVSK-4,CAMP_SAN_01,P06,415,22.0,25% OFF,311,15,Home Care,Atliq_Fusion_Container_Set_of_3
+512,fa5b45,STVJD-1,CAMP_SAN_01,P08,1190,27.0,BOGOF,595,109,Home Care,Atliq_Double_Bedsheet_set
+513,7bb8ed,STCHE-2,CAMP_SAN_01,P08,1190,45.0,BOGOF,595,175,Home Care,Atliq_Double_Bedsheet_set
+514,342d35,STCBE-3,CAMP_DIW_01,P08,1190,29.0,BOGOF,595,96,Home Care,Atliq_Double_Bedsheet_set
+515,cfeac1,STHYD-6,CAMP_SAN_01,P14,1020,100.0,BOGOF,510,396,Home Appliances,Atliq_waterproof_Immersion_Rod
+516,14f79d,STVSK-1,CAMP_DIW_01,P04,290,252.0,25% OFF,217,196,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+517,a9ae21,STCBE-0,CAMP_DIW_01,P12,62,80.0,50% OFF,31,119,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+518,3d8361,STMYS-1,CAMP_DIW_01,P08,1190,47.0,BOGOF,595,184,Home Care,Atliq_Double_Bedsheet_set
+519,da3c49,STMLR-2,CAMP_SAN_01,P02,860,270.0,33% OFF,576,313,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+520,c6bf42,STCBE-3,CAMP_DIW_01,P07,300,52.0,BOGOF,150,173,Home Care,Atliq_Curtains
+521,c4db5b,STTRV-0,CAMP_DIW_01,P01,172,164.0,33% OFF,115,236,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+522,0aefa5,STVSK-3,CAMP_SAN_01,P06,415,33.0,25% OFF,311,27,Home Care,Atliq_Fusion_Container_Set_of_3
+523,bcad3c,STMDU-0,CAMP_DIW_01,P01,172,201.0,33% OFF,115,305,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+524,6b0ee6,STMDU-1,CAMP_DIW_01,P07,300,47.0,BOGOF,150,157,Home Care,Atliq_Curtains
+525,b78191,STBLR-3,CAMP_SAN_01,P14,1020,91.0,BOGOF,510,361,Home Appliances,Atliq_waterproof_Immersion_Rod
+526,65f085,STCHE-4,CAMP_SAN_01,P12,62,60.0,50% OFF,31,87,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+527,20eb36,STCBE-1,CAMP_DIW_01,P10,65,80.0,50% OFF,32,92,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+528,092c09,STHYD-5,CAMP_DIW_01,P08,1190,43.0,BOGOF,595,147,Home Care,Atliq_Double_Bedsheet_set
+529,d552e3,STMDU-3,CAMP_SAN_01,P12,62,45.0,50% OFF,31,53,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+530,8f80ed,STVSK-3,CAMP_DIW_01,P11,190,52.0,50% OFF,95,57,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+531,0eb526,STMLR-0,CAMP_DIW_01,P07,300,38.0,BOGOF,150,113,Home Care,Atliq_Curtains
+532,6af3e0,STBLR-6,CAMP_SAN_01,P14,1020,103.0,BOGOF,510,444,Home Appliances,Atliq_waterproof_Immersion_Rod
+533,bdfb7d,STHYD-4,CAMP_SAN_01,P05,55,16.0,25% OFF,41,15,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+534,a0d919,STMDU-1,CAMP_DIW_01,P08,1190,35.0,BOGOF,595,122,Home Care,Atliq_Double_Bedsheet_set
+535,4e6a19,STHYD-3,CAMP_SAN_01,P07,300,45.0,BOGOF,150,121,Home Care,Atliq_Curtains
+536,c1debe,STCHE-3,CAMP_DIW_01,P15,3000,381.0,500 Cashback,2500,1303,Combo1,Atliq_Home_Essential_8_Product_Combo
+537,3426bd,STCBE-0,CAMP_DIW_01,P10,65,80.0,50% OFF,32,124,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+538,852b4f,STHYD-5,CAMP_SAN_01,P12,62,49.0,50% OFF,31,70,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+539,c9899d,STTRV-1,CAMP_DIW_01,P02,860,199.0,33% OFF,576,300,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+540,c0d022,STBLR-6,CAMP_SAN_01,P06,415,33.0,25% OFF,311,28,Home Care,Atliq_Fusion_Container_Set_of_3
+541,caa1e1,STCHE-5,CAMP_SAN_01,P03,200,432.0,BOGOF,100,1736,Grocery & Staples,Atliq_Suflower_Oil (1L)
+542,cdb883,STMDU-0,CAMP_SAN_01,P12,62,46.0,50% OFF,31,66,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+543,3bf731,STVSK-3,CAMP_SAN_01,P04,370,265.0,BOGOF,185,673,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+544,1091cf,STBLR-6,CAMP_DIW_01,P05,55,108.0,25% OFF,41,93,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+545,6d863b,STCBE-1,CAMP_SAN_01,P07,300,40.0,BOGOF,150,155,Home Care,Atliq_Curtains
+546,bed4b4,STMLR-1,CAMP_SAN_01,P10,50,13.0,25% OFF,37,10,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+547,d290a1,STBLR-3,CAMP_DIW_01,P04,290,343.0,25% OFF,217,270,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+548,0e96b4,STCBE-4,CAMP_SAN_01,P14,1020,93.0,BOGOF,510,234,Home Appliances,Atliq_waterproof_Immersion_Rod
+549,8b1147,STVSK-0,CAMP_SAN_01,P15,3000,73.0,500 Cashback,2500,170,Combo1,Atliq_Home_Essential_8_Product_Combo
+550,7ecbbb,STHYD-1,CAMP_DIW_01,P06,415,103.0,25% OFF,311,88,Home Care,Atliq_Fusion_Container_Set_of_3
+551,4a77da,STMLR-0,CAMP_SAN_01,P02,860,243.0,33% OFF,576,332,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+552,4cf56a,STBLR-9,CAMP_DIW_01,P04,290,311.0,25% OFF,217,304,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+553,20da13,STBLR-4,CAMP_SAN_01,P07,300,48.0,BOGOF,150,185,Home Care,Atliq_Curtains
+554,49706e,STMDU-3,CAMP_SAN_01,P15,3000,120.0,500 Cashback,2500,274,Combo1,Atliq_Home_Essential_8_Product_Combo
+555,77435f,STBLR-3,CAMP_SAN_01,P01,172,78.0,33% OFF,115,387,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+556,2ba1ba,STCHE-7,CAMP_SAN_01,P13,350,106.0,BOGOF,175,454,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+557,02c389,STBLR-8,CAMP_DIW_01,P12,62,120.0,50% OFF,31,159,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+558,cb7ddd,STVJD-1,CAMP_DIW_01,P09,110,49.0,50% OFF,55,65,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+559,b44f0e,STHYD-2,CAMP_SAN_01,P15,3000,136.0,500 Cashback,2500,288,Combo1,Atliq_Home_Essential_8_Product_Combo
+560,fc8d10,STMLR-0,CAMP_SAN_01,P08,1190,27.0,BOGOF,595,70,Home Care,Atliq_Double_Bedsheet_set
+561,42f304,STCBE-3,CAMP_DIW_01,P06,415,66.0,25% OFF,311,57,Home Care,Atliq_Fusion_Container_Set_of_3
+562,32fa85,STCHE-3,CAMP_DIW_01,P05,55,106.0,25% OFF,41,92,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+563,e60b61,STMLR-0,CAMP_SAN_01,P06,415,15.0,25% OFF,311,12,Home Care,Atliq_Fusion_Container_Set_of_3
+564,da3d1d,STVSK-2,CAMP_DIW_01,P06,415,78.0,25% OFF,311,69,Home Care,Atliq_Fusion_Container_Set_of_3
+565,5991de,STMDU-0,CAMP_DIW_01,P09,110,43.0,50% OFF,55,58,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+566,9c2777,STCHE-6,CAMP_SAN_01,P02,860,463.0,33% OFF,576,629,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+567,deb3a5,STHYD-2,CAMP_SAN_01,P12,62,52.0,50% OFF,31,72,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+568,5aa413,STCHE-1,CAMP_SAN_01,P08,1190,43.0,BOGOF,595,109,Home Care,Atliq_Double_Bedsheet_set
+569,84dbe3,STHYD-1,CAMP_SAN_01,P07,300,51.0,BOGOF,150,140,Home Care,Atliq_Curtains
+570,1ee94b,STHYD-0,CAMP_DIW_01,P13,350,68.0,BOGOF,175,235,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+571,e89f85,STCBE-1,CAMP_SAN_01,P05,55,25.0,25% OFF,41,18,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+572,edaef4,STHYD-5,CAMP_SAN_01,P03,200,416.0,BOGOF,100,1630,Grocery & Staples,Atliq_Suflower_Oil (1L)
+573,5f8870,STMYS-1,CAMP_DIW_01,P13,350,70.0,BOGOF,175,270,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+574,780aaa,STMYS-1,CAMP_SAN_01,P06,415,19.0,25% OFF,311,14,Home Care,Atliq_Fusion_Container_Set_of_3
+575,c24879,STCBE-1,CAMP_SAN_01,P04,370,370.0,BOGOF,185,1439,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+576,dd6685,STMYS-2,CAMP_DIW_01,P06,415,78.0,25% OFF,311,70,Home Care,Atliq_Fusion_Container_Set_of_3
+577,4888d5,STBLR-3,CAMP_DIW_01,P07,300,70.0,BOGOF,150,231,Home Care,Atliq_Curtains
+578,652101,STBLR-1,CAMP_DIW_01,P07,300,61.0,BOGOF,150,189,Home Care,Atliq_Curtains
+579,a37f93,STVSK-3,CAMP_DIW_01,P14,1020,38.0,BOGOF,510,117,Home Appliances,Atliq_waterproof_Immersion_Rod
+580,3aaafb,STMDU-2,CAMP_DIW_01,P06,415,50.0,25% OFF,311,43,Home Care,Atliq_Fusion_Container_Set_of_3
+581,e5e244,STBLR-5,CAMP_DIW_01,P02,860,351.0,33% OFF,576,526,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+582,18a68a,STMLR-0,CAMP_DIW_01,P01,172,173.0,33% OFF,115,250,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+583,c3ae5a,STBLR-1,CAMP_SAN_01,P11,190,39.0,50% OFF,95,55,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+584,2b8abd,STCHE-2,CAMP_SAN_01,P14,1020,105.0,BOGOF,510,407,Home Appliances,Atliq_waterproof_Immersion_Rod
+585,d33301,STHYD-0,CAMP_DIW_01,P05,55,98.0,25% OFF,41,88,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+586,dd2475,STBLR-4,CAMP_DIW_01,P04,290,325.0,25% OFF,217,289,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+587,ccbc3a,STTRV-0,CAMP_DIW_01,P06,415,52.0,25% OFF,311,49,Home Care,Atliq_Fusion_Container_Set_of_3
+588,cf0a2a,STHYD-3,CAMP_DIW_01,P09,110,92.0,50% OFF,55,147,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+589,0a3c5c,STMDU-1,CAMP_DIW_01,P13,350,47.0,BOGOF,175,163,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+590,5f2c41,STCHE-6,CAMP_DIW_01,P08,1190,54.0,BOGOF,595,185,Home Care,Atliq_Double_Bedsheet_set
+591,6c9451,STVSK-0,CAMP_DIW_01,P03,156,259.0,25% OFF,117,225,Grocery & Staples,Atliq_Suflower_Oil (1L)
+592,58e374,STBLR-0,CAMP_DIW_01,P07,300,64.0,BOGOF,150,250,Home Care,Atliq_Curtains
+593,d671d3,STVSK-1,CAMP_DIW_01,P12,62,91.0,50% OFF,31,113,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+594,096adc,STBLR-8,CAMP_SAN_01,P02,860,441.0,33% OFF,576,626,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+595,ce5851,STMDU-2,CAMP_SAN_01,P03,200,318.0,BOGOF,100,1265,Grocery & Staples,Atliq_Suflower_Oil (1L)
+596,d2dc77,STMLR-0,CAMP_DIW_01,P13,350,40.0,BOGOF,175,119,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+597,f9b0ef,STVJD-0,CAMP_DIW_01,P05,55,56.0,25% OFF,41,54,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+598,52ec61,STBLR-8,CAMP_DIW_01,P10,65,133.0,50% OFF,32,172,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+599,0b38d9,STMYS-3,CAMP_DIW_01,P08,1190,29.0,BOGOF,595,115,Home Care,Atliq_Double_Bedsheet_set
+600,96a556,STBLR-1,CAMP_DIW_01,P02,860,358.0,33% OFF,576,537,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+601,7bdc1e,STVSK-4,CAMP_DIW_01,P07,300,50.0,BOGOF,150,149,Home Care,Atliq_Curtains
+602,73d86f,STVSK-2,CAMP_SAN_01,P10,50,31.0,25% OFF,37,26,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+603,eae379,STVJD-0,CAMP_DIW_01,P01,172,161.0,33% OFF,115,231,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+604,a34aa4,STBLR-5,CAMP_DIW_01,P03,156,369.0,25% OFF,117,332,Grocery & Staples,Atliq_Suflower_Oil (1L)
+605,ffaba4,STBLR-8,CAMP_SAN_01,P09,90,46.0,25% OFF,67,33,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+606,335090,STMYS-0,CAMP_DIW_01,P15,3000,262.0,500 Cashback,2500,673,Combo1,Atliq_Home_Essential_8_Product_Combo
+607,8c13bb,STBLR-5,CAMP_DIW_01,P08,1190,47.0,BOGOF,595,159,Home Care,Atliq_Double_Bedsheet_set
+608,dbaf92,STBLR-6,CAMP_SAN_01,P01,172,301.0,33% OFF,115,454,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+609,5a6ad7,STBLR-9,CAMP_DIW_01,P14,1020,45.0,BOGOF,510,153,Home Appliances,Atliq_waterproof_Immersion_Rod
+610,a1624e,STHYD-1,CAMP_DIW_01,P02,860,351.0,33% OFF,576,449,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+611,cd3392,STCHE-6,CAMP_SAN_01,P07,300,31.0,BOGOF,150,123,Home Care,Atliq_Curtains
+612,73211e,STCBE-1,CAMP_DIW_01,P01,172,182.0,33% OFF,115,223,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+613,6dae49,STBLR-1,CAMP_DIW_01,P05,55,117.0,25% OFF,41,114,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+614,40f110,STBLR-9,CAMP_DIW_01,P12,62,122.0,50% OFF,31,163,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+615,d5769b,STCBE-2,CAMP_SAN_01,P09,90,42.0,25% OFF,67,34,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+616,7d6e2a,STMLR-0,CAMP_DIW_01,P03,156,166.0,25% OFF,117,146,Grocery & Staples,Atliq_Suflower_Oil (1L)
+617,c7fefa,STMDU-1,CAMP_SAN_01,P11,190,28.0,50% OFF,95,40,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+618,ace471,STMDU-0,CAMP_SAN_01,P04,370,273.0,BOGOF,185,1201,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+619,59f792,STCHE-4,CAMP_DIW_01,P15,3000,448.0,500 Cashback,2500,1545,Combo1,Atliq_Home_Essential_8_Product_Combo
+620,4fbcf6,STHYD-1,CAMP_SAN_01,P06,415,27.0,25% OFF,311,22,Home Care,Atliq_Fusion_Container_Set_of_3
+621,6b2afc,STCBE-4,CAMP_SAN_01,P08,1190,30.0,BOGOF,595,79,Home Care,Atliq_Double_Bedsheet_set
+622,8ea7e8,STVJD-1,CAMP_SAN_01,P09,90,37.0,25% OFF,67,26,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+623,11971a,STHYD-2,CAMP_SAN_01,P11,190,45.0,50% OFF,95,62,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+624,1fc58f,STMDU-1,CAMP_SAN_01,P01,172,244.0,33% OFF,115,334,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+625,61f82c,STBLR-5,CAMP_DIW_01,P11,190,63.0,50% OFF,95,81,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+626,df4373,STMDU-2,CAMP_SAN_01,P07,300,33.0,BOGOF,150,128,Home Care,Atliq_Curtains
+627,d1138a,STTRV-1,CAMP_DIW_01,P12,62,63.0,50% OFF,31,84,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+628,4ca177,STVSK-4,CAMP_SAN_01,P14,1020,75.0,BOGOF,510,198,Home Appliances,Atliq_waterproof_Immersion_Rod
+629,9.90E+87,STHYD-6,CAMP_DIW_01,P05,55,117.0,25% OFF,41,104,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+630,7.83E+87,STMDU-3,CAMP_DIW_01,P14,1020,31.0,BOGOF,510,108,Home Appliances,Atliq_waterproof_Immersion_Rod
+631,f49149,STMYS-0,CAMP_SAN_01,P06,415,27.0,25% OFF,311,22,Home Care,Atliq_Fusion_Container_Set_of_3
+632,4406de,STVSK-1,CAMP_SAN_01,P11,190,28.0,50% OFF,95,40,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+633,166ffe,STMYS-1,CAMP_SAN_01,P10,50,28.0,25% OFF,37,20,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+634,b7286f,STBLR-5,CAMP_SAN_01,P02,860,507.0,33% OFF,576,704,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+635,6bce12,STMYS-0,CAMP_SAN_01,P07,300,46.0,BOGOF,150,120,Home Care,Atliq_Curtains
+636,5dfa52,STVSK-2,CAMP_DIW_01,P04,290,244.0,25% OFF,217,217,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+637,d61f6f,STHYD-3,CAMP_SAN_01,P03,200,331.0,BOGOF,100,903,Grocery & Staples,Atliq_Suflower_Oil (1L)
+638,c1c42d,STMLR-1,CAMP_SAN_01,P09,90,28.0,25% OFF,67,22,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+639,bcf305,STCHE-5,CAMP_DIW_01,P09,110,75.0,50% OFF,55,80,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+640,5a4d9d,STCHE-1,CAMP_SAN_01,P02,860,468.0,33% OFF,576,599,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+641,a107c4,STVJD-0,CAMP_SAN_01,P05,55,16.0,25% OFF,41,14,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+642,13d333,STCHE-7,CAMP_SAN_01,P01,172,256.0,33% OFF,115,358,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+643,78bc80,STVJD-0,CAMP_SAN_01,P07,300,22.0,BOGOF,150,85,Home Care,Atliq_Curtains
+644,f8a2a6,STMDU-1,CAMP_SAN_01,P09,90,45.0,25% OFF,67,36,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+645,e7cb59,STCHE-3,CAMP_DIW_01,P11,190,96.0,50% OFF,95,120,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+646,9b5299,STBLR-6,CAMP_DIW_01,P04,290,360.0,25% OFF,217,320,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+647,f682ec,STBLR-0,CAMP_SAN_01,P01,172,273.0,33% OFF,115,382,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+648,a25cbf,STCHE-2,CAMP_DIW_01,P04,290,295.0,25% OFF,217,289,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+649,8f2264,STBLR-7,CAMP_DIW_01,P12,62,124.0,50% OFF,31,184,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+650,11178a,STCBE-0,CAMP_DIW_01,P07,300,36.0,BOGOF,150,118,Home Care,Atliq_Curtains
+651,62775f,STCHE-2,CAMP_DIW_01,P07,300,59.0,BOGOF,150,196,Home Care,Atliq_Curtains
+652,5bfb5e,STCBE-4,CAMP_DIW_01,P10,65,57.0,50% OFF,32,72,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+653,dec49d,STMDU-2,CAMP_SAN_01,P05,55,21.0,25% OFF,41,17,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+654,bfb2b4,STBLR-7,CAMP_SAN_01,P13,350,133.0,BOGOF,175,559,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+655,1fcfc6,STVSK-0,CAMP_SAN_01,P11,190,31.0,50% OFF,95,46,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+656,c3b511,STCBE-3,CAMP_SAN_01,P14,1020,75.0,BOGOF,510,297,Home Appliances,Atliq_waterproof_Immersion_Rod
+657,42a404,STCBE-1,CAMP_SAN_01,P12,62,42.0,50% OFF,31,48,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+658,0c0339,STHYD-2,CAMP_DIW_01,P07,300,64.0,BOGOF,150,211,Home Care,Atliq_Curtains
+659,4cefe1,STMYS-1,CAMP_DIW_01,P12,62,127.0,50% OFF,31,185,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+660,0013db,STBLR-1,CAMP_SAN_01,P02,860,435.0,33% OFF,576,622,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+661,4cd59b,STVSK-0,CAMP_SAN_01,P09,90,42.0,25% OFF,67,35,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+662,2fe921,STCHE-0,CAMP_SAN_01,P05,55,25.0,25% OFF,41,21,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+663,f90ae9,STCBE-0,CAMP_SAN_01,P13,350,82.0,BOGOF,175,323,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+664,9c5d5a,STMDU-1,CAMP_DIW_01,P02,860,308.0,33% OFF,576,455,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+665,e553f2,STTRV-0,CAMP_DIW_01,P13,350,38.0,BOGOF,175,129,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+666,86ec8d,STMDU-3,CAMP_SAN_01,P04,370,303.0,BOGOF,185,1172,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+667,4fc1b2,STCHE-2,CAMP_DIW_01,P08,1190,47.0,BOGOF,595,165,Home Care,Atliq_Double_Bedsheet_set
+668,420258,STVSK-3,CAMP_SAN_01,P14,1020,54.0,BOGOF,510,137,Home Appliances,Atliq_waterproof_Immersion_Rod
+669,0f5588,STMYS-3,CAMP_DIW_01,P03,156,378.0,25% OFF,117,332,Grocery & Staples,Atliq_Suflower_Oil (1L)
+670,86196b,STTRV-0,CAMP_SAN_01,P06,415,13.0,25% OFF,311,11,Home Care,Atliq_Fusion_Container_Set_of_3
+671,4dcb0e,STBLR-8,CAMP_SAN_01,P03,200,360.0,BOGOF,100,1414,Grocery & Staples,Atliq_Suflower_Oil (1L)
+672,9acfa3,STCHE-0,CAMP_DIW_01,P12,62,115.0,50% OFF,31,154,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+673,ebbbb9,STVSK-1,CAMP_SAN_01,P05,55,19.0,25% OFF,41,14,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+674,b6233e,STMLR-2,CAMP_DIW_01,P01,172,175.0,33% OFF,115,222,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+675,f25735,STBLR-3,CAMP_DIW_01,P09,110,66.0,50% OFF,55,85,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+676,ec29f9,STTRV-1,CAMP_SAN_01,P06,415,21.0,25% OFF,311,19,Home Care,Atliq_Fusion_Container_Set_of_3
+677,ea384f,STBLR-7,CAMP_SAN_01,P10,50,40.0,25% OFF,37,33,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+678,21ac82,STHYD-2,CAMP_SAN_01,P06,415,46.0,25% OFF,311,34,Home Care,Atliq_Fusion_Container_Set_of_3
+679,7a9ebd,STTRV-0,CAMP_DIW_01,P11,190,33.0,50% OFF,95,42,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+680,80be79,STBLR-4,CAMP_SAN_01,P08,1190,39.0,BOGOF,595,156,Home Care,Atliq_Double_Bedsheet_set
+681,ff9fa7,STBLR-9,CAMP_SAN_01,P06,415,43.0,25% OFF,311,40,Home Care,Atliq_Fusion_Container_Set_of_3
+682,f940cf,STHYD-6,CAMP_DIW_01,P13,350,77.0,BOGOF,175,260,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+683,1e51ee,STVSK-3,CAMP_SAN_01,P12,62,43.0,50% OFF,31,51,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+684,5.00E+300,STVJD-1,CAMP_DIW_01,P14,1020,24.0,BOGOF,510,80,Home Appliances,Atliq_waterproof_Immersion_Rod
+685,f0365e,STCHE-2,CAMP_DIW_01,P09,110,85.0,50% OFF,55,90,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+686,acaff0,STHYD-0,CAMP_DIW_01,P12,62,133.0,50% OFF,31,195,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+687,1ed982,STCHE-6,CAMP_DIW_01,P13,350,75.0,BOGOF,175,252,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+688,b46d32,STMDU-1,CAMP_SAN_01,P04,370,337.0,BOGOF,185,1337,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+689,ce68be,STCHE-3,CAMP_SAN_01,P01,172,310.0,33% OFF,115,421,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+690,1a4a61,STCHE-1,CAMP_SAN_01,P06,415,36.0,25% OFF,311,29,Home Care,Atliq_Fusion_Container_Set_of_3
+691,2c7cc7,STBLR-1,CAMP_SAN_01,P10,50,28.0,25% OFF,37,24,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+692,9e59d5,STVSK-1,CAMP_DIW_01,P05,55,64.0,25% OFF,41,49,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+693,79f662,STVSK-1,CAMP_SAN_01,P09,90,40.0,25% OFF,67,28,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+694,463205,STVSK-2,CAMP_DIW_01,P02,860,215.0,33% OFF,576,371,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+695,bf2632,STCHE-1,CAMP_SAN_01,P12,62,57.0,50% OFF,31,66,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+696,951bda,STBLR-9,CAMP_DIW_01,P07,300,63.0,BOGOF,150,213,Home Care,Atliq_Curtains
+697,ef61c6,STHYD-2,CAMP_SAN_01,P07,300,48.0,BOGOF,150,188,Home Care,Atliq_Curtains
+698,69a3d2,STTRV-1,CAMP_SAN_01,P08,1190,24.0,BOGOF,595,92,Home Care,Atliq_Double_Bedsheet_set
+699,d5b8af,STVJD-1,CAMP_SAN_01,P11,190,25.0,50% OFF,95,35,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+700,0f8686,STVSK-0,CAMP_SAN_01,P07,300,24.0,BOGOF,150,92,Home Care,Atliq_Curtains
+701,4a42f9,STBLR-7,CAMP_DIW_01,P08,1190,49.0,BOGOF,595,186,Home Care,Atliq_Double_Bedsheet_set
+702,d953a5,STBLR-1,CAMP_SAN_01,P01,172,297.0,33% OFF,115,418,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+703,88a405,STMLR-2,CAMP_DIW_01,P12,62,63.0,50% OFF,31,71,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+704,ed2257,STBLR-2,CAMP_DIW_01,P01,172,358.0,33% OFF,115,529,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+705,0b9826,STHYD-6,CAMP_DIW_01,P11,190,57.0,50% OFF,95,71,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+706,2361c6,STBLR-0,CAMP_DIW_01,P06,415,94.0,25% OFF,311,83,Home Care,Atliq_Fusion_Container_Set_of_3
+707,7e28fb,STHYD-4,CAMP_DIW_01,P06,415,96.0,25% OFF,311,92,Home Care,Atliq_Fusion_Container_Set_of_3
+708,a7c40d,STMLR-1,CAMP_DIW_01,P09,110,38.0,50% OFF,55,50,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+709,d1ceaf,STBLR-5,CAMP_SAN_01,P10,50,36.0,25% OFF,37,29,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+710,1a1a02,STBLR-0,CAMP_SAN_01,P04,370,465.0,BOGOF,185,2064,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+711,a1ef43,STTRV-1,CAMP_SAN_01,P12,62,78.0,50% OFF,31,38,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+712,da1969,STVSK-1,CAMP_SAN_01,P03,200,322.0,BOGOF,100,1291,Grocery & Staples,Atliq_Suflower_Oil (1L)
+713,802dfa,STBLR-3,CAMP_SAN_01,P07,300,54.0,BOGOF,150,217,Home Care,Atliq_Curtains
+714,e5d28d,STVSK-0,CAMP_SAN_01,P13,350,73.0,BOGOF,175,282,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+715,33da9a,STHYD-5,CAMP_DIW_01,P14,1020,54.0,BOGOF,510,183,Home Appliances,Atliq_waterproof_Immersion_Rod
+716,ef95a9,STBLR-3,CAMP_DIW_01,P13,350,87.0,BOGOF,175,298,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+717,6ee8ab,STVSK-0,CAMP_SAN_01,P06,415,16.0,25% OFF,311,13,Home Care,Atliq_Fusion_Container_Set_of_3
+718,34ac29,STMDU-0,CAMP_DIW_01,P06,415,73.0,25% OFF,311,64,Home Care,Atliq_Fusion_Container_Set_of_3
+719,9fae1c,STHYD-2,CAMP_DIW_01,P15,3000,400.0,500 Cashback,2500,1176,Combo1,Atliq_Home_Essential_8_Product_Combo
+720,0953d7,STVSK-1,CAMP_SAN_01,P02,860,387.0,33% OFF,576,530,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+721,8.31E+08,STCBE-2,CAMP_DIW_01,P08,1190,33.0,BOGOF,595,129,Home Care,Atliq_Double_Bedsheet_set
+722,c134bb,STBLR-8,CAMP_SAN_01,P07,300,51.0,BOGOF,150,205,Home Care,Atliq_Curtains
+723,def6ff,STMDU-0,CAMP_DIW_01,P11,190,70.0,50% OFF,95,89,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+724,29411f,STBLR-6,CAMP_SAN_01,P08,1190,69.0,BOGOF,595,303,Home Care,Atliq_Double_Bedsheet_set
+725,75c3a0,STBLR-0,CAMP_DIW_01,P13,350,73.0,BOGOF,175,282,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+726,8e6ee5,STMLR-0,CAMP_DIW_01,P05,55,52.0,25% OFF,41,45,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+727,53bb94,STHYD-2,CAMP_DIW_01,P02,860,402.0,33% OFF,576,611,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+728,d41d53,STCHE-5,CAMP_DIW_01,P01,172,334.0,33% OFF,115,424,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+729,cea0e2,STCHE-2,CAMP_DIW_01,P11,190,73.0,50% OFF,95,84,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+730,d62a10,STCHE-7,CAMP_DIW_01,P13,350,63.0,BOGOF,175,242,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+731,ab8eb3,STHYD-6,CAMP_DIW_01,P06,415,85.0,25% OFF,311,74,Home Care,Atliq_Fusion_Container_Set_of_3
+732,eb8939,STBLR-9,CAMP_DIW_01,P06,415,91.0,25% OFF,311,89,Home Care,Atliq_Fusion_Container_Set_of_3
+733,366c89,STMDU-3,CAMP_SAN_01,P06,415,25.0,25% OFF,311,20,Home Care,Atliq_Fusion_Container_Set_of_3
+734,0a0062,STHYD-4,CAMP_DIW_01,P12,62,110.0,50% OFF,31,146,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+735,5c7b20,STCBE-4,CAMP_DIW_01,P05,55,101.0,25% OFF,41,89,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+736,e4f1f3,STCBE-3,CAMP_SAN_01,P11,190,33.0,50% OFF,95,50,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+737,c4dae9,STHYD-0,CAMP_DIW_01,P08,1190,52.0,BOGOF,595,180,Home Care,Atliq_Double_Bedsheet_set
+738,cc4a67,STTRV-0,CAMP_DIW_01,P03,156,187.0,25% OFF,117,181,Grocery & Staples,Atliq_Suflower_Oil (1L)
+739,861116,STBLR-7,CAMP_DIW_01,P06,415,96.0,25% OFF,311,84,Home Care,Atliq_Fusion_Container_Set_of_3
+740,9cf38e,STCBE-3,CAMP_SAN_01,P09,90,40.0,25% OFF,67,32,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+741,3a8b79,STMDU-0,CAMP_DIW_01,P07,300,49.0,BOGOF,150,199,Home Care,Atliq_Curtains
+742,95f061,STMYS-3,CAMP_SAN_01,P15,3000,78.0,500 Cashback,2500,443,Combo1,Atliq_Home_Essential_8_Product_Combo
+743,7f1521,STMYS-1,CAMP_SAN_01,P05,55,19.0,25% OFF,41,14,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+744,6.20E+94,STMYS-0,CAMP_SAN_01,P08,1190,48.0,BOGOF,595,129,Home Care,Atliq_Double_Bedsheet_set
+745,32c24e,STBLR-8,CAMP_DIW_01,P02,860,392.0,33% OFF,576,568,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+746,2c8137,STVSK-3,CAMP_SAN_01,P07,300,31.0,BOGOF,150,77,Home Care,Atliq_Curtains
+747,8d349f,STCBE-4,CAMP_SAN_01,P10,50,22.0,25% OFF,37,18,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+748,5715c0,STVSK-1,CAMP_SAN_01,P12,62,46.0,50% OFF,31,66,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+749,cac6b5,STCBE-4,CAMP_SAN_01,P11,190,28.0,50% OFF,95,39,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+750,9bc176,STHYD-3,CAMP_SAN_01,P04,370,416.0,BOGOF,185,1085,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+751,e74698,STBLR-5,CAMP_DIW_01,P14,1020,43.0,BOGOF,510,144,Home Appliances,Atliq_waterproof_Immersion_Rod
+752,171bbb,STTRV-0,CAMP_SAN_01,P15,3000,79.0,500 Cashback,2500,171,Combo1,Atliq_Home_Essential_8_Product_Combo
+753,91649,STMDU-1,CAMP_SAN_01,P13,350,73.0,BOGOF,175,287,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+754,c115da,STCHE-2,CAMP_DIW_01,P13,350,84.0,BOGOF,175,293,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+755,5f313a,STCHE-2,CAMP_DIW_01,P10,65,78.0,50% OFF,32,135,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+756,da9b71,STVSK-1,CAMP_DIW_01,P06,415,63.0,25% OFF,311,51,Home Care,Atliq_Fusion_Container_Set_of_3
+757,a50d87,STCBE-3,CAMP_DIW_01,P10,65,82.0,50% OFF,32,122,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+758,90b5b0,STBLR-3,CAMP_SAN_01,P05,55,25.0,25% OFF,41,18,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+759,6ba4b5,STMDU-0,CAMP_SAN_01,P05,55,15.0,25% OFF,41,12,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+760,65f85a,STBLR-7,CAMP_SAN_01,P12,62,58.0,50% OFF,31,92,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+761,c8e17c,STMLR-1,CAMP_DIW_01,P02,860,166.0,33% OFF,576,252,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+762,f35446,STTRV-0,CAMP_DIW_01,P09,110,33.0,50% OFF,55,43,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+763,8a219d,STBLR-8,CAMP_DIW_01,P08,1190,64.0,BOGOF,595,218,Home Care,Atliq_Double_Bedsheet_set
+764,7d1872,STMYS-2,CAMP_DIW_01,P02,860,283.0,33% OFF,576,430,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+765,6bfa15,STCBE-2,CAMP_SAN_01,P06,415,16.0,25% OFF,311,13,Home Care,Atliq_Fusion_Container_Set_of_3
+766,26a18a,STVSK-3,CAMP_SAN_01,P15,3000,109.0,500 Cashback,2500,192,Combo1,Atliq_Home_Essential_8_Product_Combo
+767,f94f2f,STTRV-1,CAMP_DIW_01,P08,1190,28.0,BOGOF,595,92,Home Care,Atliq_Double_Bedsheet_set
+768,17195,STCHE-4,CAMP_SAN_01,P11,190,45.0,50% OFF,95,64,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+769,ba0b3e,STBLR-7,CAMP_SAN_01,P07,300,40.0,BOGOF,150,165,Home Care,Atliq_Curtains
+770,fa0c0c,STCBE-1,CAMP_DIW_01,P13,350,40.0,BOGOF,175,132,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+771,c32fcd,STHYD-3,CAMP_SAN_01,P08,1190,73.0,BOGOF,595,192,Home Care,Atliq_Double_Bedsheet_set
+772,00af86,STCBE-0,CAMP_SAN_01,P06,415,15.0,25% OFF,311,14,Home Care,Atliq_Fusion_Container_Set_of_3
+773,cb43c4,STCHE-0,CAMP_SAN_01,P14,1020,106.0,BOGOF,510,424,Home Appliances,Atliq_waterproof_Immersion_Rod
+774,5947fb,STBLR-9,CAMP_SAN_01,P15,3000,118.0,500 Cashback,2500,251,Combo1,Atliq_Home_Essential_8_Product_Combo
+775,9fcb92,STMDU-2,CAMP_DIW_01,P15,3000,315.0,500 Cashback,2500,976,Combo1,Atliq_Home_Essential_8_Product_Combo
+776,800f42,STMDU-3,CAMP_SAN_01,P03,200,273.0,BOGOF,100,1097,Grocery & Staples,Atliq_Suflower_Oil (1L)
+777,675714,STCBE-3,CAMP_DIW_01,P13,350,61.0,BOGOF,175,201,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+778,1f5ed3,STVSK-1,CAMP_SAN_01,P08,1190,33.0,BOGOF,595,131,Home Care,Atliq_Double_Bedsheet_set
+779,8c62ba,STVSK-0,CAMP_DIW_01,P01,172,161.0,33% OFF,115,265,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+780,14ff29,STBLR-3,CAMP_SAN_01,P11,190,43.0,50% OFF,95,62,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+781,d3d574,STMLR-2,CAMP_SAN_01,P08,1190,16.0,BOGOF,595,63,Home Care,Atliq_Double_Bedsheet_set
+782,eccfbe,STCHE-1,CAMP_DIW_01,P02,860,364.0,33% OFF,576,451,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+783,e2f806,STMDU-1,CAMP_DIW_01,P14,1020,36.0,BOGOF,510,126,Home Appliances,Atliq_waterproof_Immersion_Rod
+784,ac0db6,STBLR-8,CAMP_SAN_01,P06,415,22.0,25% OFF,311,16,Home Care,Atliq_Fusion_Container_Set_of_3
+785,0e888c,STVSK-3,CAMP_DIW_01,P02,860,274.0,33% OFF,576,334,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+786,c2ee4f,STVSK-3,CAMP_SAN_01,P13,350,58.0,BOGOF,175,148,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+787,03b653,STCBE-3,CAMP_DIW_01,P02,860,266.0,33% OFF,576,446,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+788,3070a3,STVSK-3,CAMP_DIW_01,P10,65,68.0,50% OFF,32,76,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+789,6b74c8,STBLR-5,CAMP_DIW_01,P15,3000,379.0,500 Cashback,2500,1095,Combo1,Atliq_Home_Essential_8_Product_Combo
+790,12bb06,STHYD-1,CAMP_DIW_01,P03,156,351.0,25% OFF,117,319,Grocery & Staples,Atliq_Suflower_Oil (1L)
+791,1.11E+11,STMYS-3,CAMP_SAN_01,P11,190,43.0,50% OFF,95,48,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+792,82ff02,STMDU-0,CAMP_SAN_01,P10,50,22.0,25% OFF,37,18,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+793,5e1671,STCHE-2,CAMP_SAN_01,P10,50,34.0,25% OFF,37,30,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+794,9a425b,STCBE-0,CAMP_DIW_01,P03,156,276.0,25% OFF,117,267,Grocery & Staples,Atliq_Suflower_Oil (1L)
+795,3.42E+08,STMDU-3,CAMP_SAN_01,P11,190,34.0,50% OFF,95,38,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+796,966652,STCBE-3,CAMP_DIW_01,P05,55,64.0,25% OFF,41,55,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+797,a3caaa,STCHE-0,CAMP_DIW_01,P10,65,126.0,50% OFF,32,167,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+798,c873b4,STVSK-4,CAMP_DIW_01,P02,860,267.0,33% OFF,576,389,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+799,02fe6a,STMLR-1,CAMP_DIW_01,P04,290,152.0,25% OFF,217,133,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+800,18810a,STMYS-1,CAMP_DIW_01,P02,860,395.0,33% OFF,576,711,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+801,cc2182,STMDU-1,CAMP_DIW_01,P12,62,85.0,50% OFF,31,117,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+802,f856b9,STMLR-2,CAMP_SAN_01,P15,3000,66.0,500 Cashback,2500,147,Combo1,Atliq_Home_Essential_8_Product_Combo
+803,d33904,STMYS-3,CAMP_DIW_01,P07,300,59.0,BOGOF,150,233,Home Care,Atliq_Curtains
+804,7e9777,STVJD-1,CAMP_DIW_01,P08,1190,24.0,BOGOF,595,82,Home Care,Atliq_Double_Bedsheet_set
+805,531a22,STBLR-3,CAMP_DIW_01,P11,190,71.0,50% OFF,95,90,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+806,e2a523,STHYD-5,CAMP_DIW_01,P07,300,59.0,BOGOF,150,195,Home Care,Atliq_Curtains
+807,2ae8b8,STCBE-2,CAMP_SAN_01,P10,50,22.0,25% OFF,37,18,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+808,8f4f8c,STVJD-1,CAMP_DIW_01,P02,860,210.0,33% OFF,576,321,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+809,1.53E+07,STCHE-7,CAMP_SAN_01,P12,62,67.0,50% OFF,31,95,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+810,e2c229,STTRV-1,CAMP_SAN_01,P15,3000,54.0,500 Cashback,2500,125,Combo1,Atliq_Home_Essential_8_Product_Combo
+811,2cc7f0,STMDU-3,CAMP_SAN_01,P02,860,457.0,33% OFF,576,548,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+812,715baf,STHYD-3,CAMP_DIW_01,P13,350,82.0,BOGOF,175,239,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+813,6a1a5a,STVSK-0,CAMP_DIW_01,P15,3000,250.0,500 Cashback,2500,755,Combo1,Atliq_Home_Essential_8_Product_Combo
+814,d59c23,STCBE-3,CAMP_DIW_01,P03,156,252.0,25% OFF,117,224,Grocery & Staples,Atliq_Suflower_Oil (1L)
+815,e0844a,STTRV-1,CAMP_DIW_01,P10,65,64.0,50% OFF,32,80,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+816,0f2c3a,STCBE-0,CAMP_SAN_01,P07,300,30.0,BOGOF,150,117,Home Care,Atliq_Curtains
+817,b55027,STCHE-6,CAMP_SAN_01,P10,50,31.0,25% OFF,37,22,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+818,5bc324,STTRV-1,CAMP_DIW_01,P14,1020,19.0,BOGOF,510,66,Home Appliances,Atliq_waterproof_Immersion_Rod
+819,18c9f4,STBLR-1,CAMP_DIW_01,P03,156,385.0,25% OFF,117,369,Grocery & Staples,Atliq_Suflower_Oil (1L)
+820,2fc575,STBLR-0,CAMP_DIW_01,P12,62,147.0,50% OFF,31,198,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+821,c3bbcc,STBLR-2,CAMP_SAN_01,P07,300,31.0,BOGOF,150,122,Home Care,Atliq_Curtains
+822,c4b10c,STCHE-5,CAMP_DIW_01,P06,415,87.0,25% OFF,311,77,Home Care,Atliq_Fusion_Container_Set_of_3
+823,1f0eaf,STBLR-6,CAMP_SAN_01,P15,3000,147.0,500 Cashback,2500,385,Combo1,Atliq_Home_Essential_8_Product_Combo
+824,32b8a7,STBLR-2,CAMP_DIW_01,P03,156,378.0,25% OFF,117,343,Grocery & Staples,Atliq_Suflower_Oil (1L)
+825,be6ab1,STCHE-4,CAMP_SAN_01,P09,90,73.0,25% OFF,67,60,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+826,e5e0dc,STHYD-0,CAMP_SAN_01,P07,300,52.0,BOGOF,150,204,Home Care,Atliq_Curtains
+827,a16acc,STBLR-4,CAMP_SAN_01,P11,190,43.0,50% OFF,95,59,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+828,380c68,STTRV-1,CAMP_DIW_01,P07,300,29.0,BOGOF,150,96,Home Care,Atliq_Curtains
+829,e9c690,STMDU-3,CAMP_SAN_01,P09,90,45.0,25% OFF,67,38,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+830,f8b215,STBLR-4,CAMP_DIW_01,P14,1020,40.0,BOGOF,510,138,Home Appliances,Atliq_waterproof_Immersion_Rod
+831,5e0a8c,STBLR-5,CAMP_SAN_01,P12,62,55.0,50% OFF,31,77,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+832,ad56bd,STMLR-2,CAMP_DIW_01,P09,110,36.0,50% OFF,55,37,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+833,3af058,STVSK-3,CAMP_DIW_01,P07,300,36.0,BOGOF,150,108,Home Care,Atliq_Curtains
+834,4fca07,STMLR-2,CAMP_SAN_01,P01,172,183.0,33% OFF,115,215,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+835,6bf19b,STTRV-1,CAMP_DIW_01,P04,290,169.0,25% OFF,217,160,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+836,e8aca2,STCBE-4,CAMP_DIW_01,P08,1190,40.0,BOGOF,595,119,Home Care,Atliq_Double_Bedsheet_set
+837,365da3,STCBE-1,CAMP_SAN_01,P06,415,21.0,25% OFF,311,15,Home Care,Atliq_Fusion_Container_Set_of_3
+838,b76614,STMLR-0,CAMP_SAN_01,P12,62,33.0,50% OFF,31,47,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+839,5a0c33,STCBE-2,CAMP_DIW_01,P10,65,87.0,50% OFF,32,127,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+840,f46036,STVSK-4,CAMP_DIW_01,P13,350,61.0,BOGOF,175,178,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+841,49057f,STHYD-0,CAMP_SAN_01,P15,3000,121.0,500 Cashback,2500,274,Combo1,Atliq_Home_Essential_8_Product_Combo
+842,b78a4f,STCBE-3,CAMP_SAN_01,P13,350,99.0,BOGOF,175,383,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+843,05e55f,STBLR-0,CAMP_SAN_01,P03,200,415.0,BOGOF,100,1759,Grocery & Staples,Atliq_Suflower_Oil (1L)
+844,a26e60,STTRV-1,CAMP_DIW_01,P13,350,36.0,BOGOF,175,122,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+845,de0a50,STCHE-7,CAMP_SAN_01,P05,55,28.0,25% OFF,41,26,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+846,d134e0,STBLR-3,CAMP_DIW_01,P15,3000,442.0,500 Cashback,2500,1365,Combo1,Atliq_Home_Essential_8_Product_Combo
+847,42b041,STBLR-1,CAMP_DIW_01,P01,172,357.0,33% OFF,115,514,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+848,a0dc46,STHYD-3,CAMP_DIW_01,P05,55,129.0,25% OFF,41,104,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+849,a21f91,STBLR-8,CAMP_DIW_01,P03,156,393.0,25% OFF,117,322,Grocery & Staples,Atliq_Suflower_Oil (1L)
+850,785811,STCHE-0,CAMP_SAN_01,P10,50,25.0,25% OFF,37,20,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+851,aac58d,STBLR-6,CAMP_DIW_01,P08,1190,52.0,BOGOF,595,204,Home Care,Atliq_Double_Bedsheet_set
+852,95792f,STMDU-2,CAMP_SAN_01,P15,3000,106.0,500 Cashback,2500,243,Combo1,Atliq_Home_Essential_8_Product_Combo
+853,c8035e,STCHE-3,CAMP_SAN_01,P13,350,122.0,BOGOF,175,529,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+854,669d35,STCHE-1,CAMP_DIW_01,P12,62,108.0,50% OFF,31,124,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+855,12573c,STHYD-3,CAMP_SAN_01,P12,62,64.0,50% OFF,31,100,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+856,5ea63d,STCBE-3,CAMP_DIW_01,P12,62,82.0,50% OFF,31,126,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+857,141aea,STCHE-7,CAMP_SAN_01,P14,1020,111.0,BOGOF,510,493,Home Appliances,Atliq_waterproof_Immersion_Rod
+858,4a34a6,STVSK-4,CAMP_SAN_01,P09,90,34.0,25% OFF,67,25,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+859,8cd89f,STHYD-0,CAMP_SAN_01,P03,200,363.0,BOGOF,100,1408,Grocery & Staples,Atliq_Suflower_Oil (1L)
+860,c48008,STBLR-2,CAMP_DIW_01,P14,1020,47.0,BOGOF,510,162,Home Appliances,Atliq_waterproof_Immersion_Rod
+861,11ea6f,STMDU-2,CAMP_DIW_01,P04,290,271.0,25% OFF,217,243,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+862,b68b77,STCBE-0,CAMP_SAN_01,P01,172,244.0,33% OFF,115,368,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+863,ba72b1,STMDU-1,CAMP_SAN_01,P05,55,15.0,25% OFF,41,12,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+864,608271,STMDU-0,CAMP_SAN_01,P15,3000,122.0,500 Cashback,2500,342,Combo1,Atliq_Home_Essential_8_Product_Combo
+865,b1a501,STBLR-0,CAMP_DIW_01,P11,190,80.0,50% OFF,95,108,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+866,cd4c5a,STMLR-0,CAMP_SAN_01,P09,90,34.0,25% OFF,67,28,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+867,b92097,STCBE-4,CAMP_DIW_01,P03,156,257.0,25% OFF,117,221,Grocery & Staples,Atliq_Suflower_Oil (1L)
+868,57a7bc,STHYD-5,CAMP_SAN_01,P14,1020,100.0,BOGOF,510,391,Home Appliances,Atliq_waterproof_Immersion_Rod
+869,160abb,STCBE-3,CAMP_SAN_01,P02,860,336.0,33% OFF,576,534,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+870,baecfe,STVJD-0,CAMP_SAN_01,P12,62,31.0,50% OFF,31,43,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+871,4f0587,STMDU-0,CAMP_SAN_01,P08,1190,33.0,BOGOF,595,136,Home Care,Atliq_Double_Bedsheet_set
+872,ed90b8,STVSK-4,CAMP_SAN_01,P05,55,18.0,25% OFF,41,13,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+873,dbd453,STMLR-1,CAMP_SAN_01,P03,200,195.0,BOGOF,100,776,Grocery & Staples,Atliq_Suflower_Oil (1L)
+874,45c35a,STHYD-5,CAMP_SAN_01,P11,190,54.0,50% OFF,95,76,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+875,f7aec5,STCHE-5,CAMP_SAN_01,P13,350,87.0,BOGOF,175,341,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+876,2e0950,STBLR-0,CAMP_DIW_01,P05,55,133.0,25% OFF,41,114,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+877,5202ed,STBLR-4,CAMP_DIW_01,P03,156,306.0,25% OFF,117,275,Grocery & Staples,Atliq_Suflower_Oil (1L)
+878,003c65,STBLR-9,CAMP_SAN_01,P13,350,114.0,BOGOF,175,457,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+879,a55960,STBLR-1,CAMP_DIW_01,P08,1190,50.0,BOGOF,595,149,Home Care,Atliq_Double_Bedsheet_set
+880,63a2d2,STCHE-3,CAMP_DIW_01,P08,1190,47.0,BOGOF,595,186,Home Care,Atliq_Double_Bedsheet_set
+881,f45be0,STCHE-2,CAMP_SAN_01,P05,55,25.0,25% OFF,41,23,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+882,f60d93,STCBE-0,CAMP_DIW_01,P05,55,78.0,25% OFF,41,75,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+883,3164ea,STMDU-2,CAMP_SAN_01,P01,172,265.0,33% OFF,115,328,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+884,1e5ae7,STCHE-7,CAMP_SAN_01,P09,90,54.0,25% OFF,67,51,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+885,9.33E+11,STBLR-3,CAMP_SAN_01,P08,1190,40.0,BOGOF,595,154,Home Care,Atliq_Double_Bedsheet_set
+886,a05e82,STMYS-3,CAMP_SAN_01,P13,350,124.0,BOGOF,175,527,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+887,8869,STCBE-4,CAMP_SAN_01,P13,350,75.0,BOGOF,175,200,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+888,1768c2,STHYD-0,CAMP_DIW_01,P02,860,367.0,33% OFF,576,601,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+889,de6e7e,STVSK-1,CAMP_SAN_01,P15,3000,88.0,500 Cashback,2500,186,Combo1,Atliq_Home_Essential_8_Product_Combo
+890,5e59a1,STTRV-0,CAMP_SAN_01,P05,55,12.0,25% OFF,41,11,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+891,38ebfb,STCBE-1,CAMP_SAN_01,P10,50,27.0,25% OFF,37,20,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+892,f65a1e,STVSK-4,CAMP_DIW_01,P04,290,255.0,25% OFF,217,196,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+893,6d65d2,STBLR-8,CAMP_SAN_01,P04,370,480.0,BOGOF,185,1867,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+894,8d7458,STCBE-1,CAMP_DIW_01,P12,62,98.0,50% OFF,31,109,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+895,726ac4,STBLR-5,CAMP_SAN_01,P04,370,454.0,BOGOF,185,1756,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+896,e8a904,STCHE-7,CAMP_DIW_01,P05,55,112.0,25% OFF,41,107,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+897,cca40f,STBLR-1,CAMP_SAN_01,P12,62,73.0,50% OFF,31,102,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+898,432f1d,STBLR-4,CAMP_SAN_01,P05,55,19.0,25% OFF,41,15,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+899,bcffbb,STCBE-0,CAMP_DIW_01,P11,190,36.0,50% OFF,95,56,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+900,be3489,STHYD-3,CAMP_DIW_01,P14,1020,38.0,BOGOF,510,119,Home Appliances,Atliq_waterproof_Immersion_Rod
+901,d622c3,STHYD-0,CAMP_SAN_01,P10,50,25.0,25% OFF,37,20,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+902,105788,STCHE-0,CAMP_SAN_01,P07,300,58.0,BOGOF,150,232,Home Care,Atliq_Curtains
+903,4f560f,STHYD-0,CAMP_SAN_01,P02,860,514.0,33% OFF,576,791,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+904,ca7298,STCBE-2,CAMP_SAN_01,P15,3000,85.0,500 Cashback,2500,228,Combo1,Atliq_Home_Essential_8_Product_Combo
+905,003e8d,STCHE-3,CAMP_DIW_01,P02,860,371.0,33% OFF,576,519,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+906,1c1cb7,STHYD-5,CAMP_SAN_01,P10,50,39.0,25% OFF,37,35,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+907,144c17,STCHE-2,CAMP_DIW_01,P02,860,411.0,33% OFF,576,509,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+908,9c2c14,STVSK-0,CAMP_DIW_01,P14,1020,29.0,BOGOF,510,97,Home Appliances,Atliq_waterproof_Immersion_Rod
+909,555fcd,STVSK-3,CAMP_DIW_01,P13,350,57.0,BOGOF,175,178,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+910,729701,STVSK-2,CAMP_SAN_01,P06,415,22.0,25% OFF,311,18,Home Care,Atliq_Fusion_Container_Set_of_3
+911,4cc388,STBLR-7,CAMP_SAN_01,P02,860,526.0,33% OFF,576,799,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+912,741bef,STMYS-0,CAMP_SAN_01,P13,350,114.0,BOGOF,175,287,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+913,46d796,STHYD-6,CAMP_SAN_01,P07,300,51.0,BOGOF,150,205,Home Care,Atliq_Curtains
+914,1e5c85,STBLR-7,CAMP_DIW_01,P01,172,341.0,33% OFF,115,606,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+915,5c2d1f,STCBE-2,CAMP_SAN_01,P03,200,304.0,BOGOF,100,1340,Grocery & Staples,Atliq_Suflower_Oil (1L)
+916,f6c17f,STBLR-0,CAMP_SAN_01,P09,90,54.0,25% OFF,67,45,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+917,8d68bc,STHYD-2,CAMP_DIW_01,P03,156,357.0,25% OFF,117,289,Grocery & Staples,Atliq_Suflower_Oil (1L)
+918,d0356d,STCHE-0,CAMP_DIW_01,P08,1190,45.0,BOGOF,595,152,Home Care,Atliq_Double_Bedsheet_set
+919,e45c30,STMDU-1,CAMP_DIW_01,P06,415,78.0,25% OFF,311,63,Home Care,Atliq_Fusion_Container_Set_of_3
+920,cf616b,STMYS-2,CAMP_DIW_01,P09,110,64.0,50% OFF,55,84,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+921,ca1e8f,STHYD-1,CAMP_DIW_01,P08,1190,54.0,BOGOF,595,167,Home Care,Atliq_Double_Bedsheet_set
+922,541bef,STHYD-4,CAMP_SAN_01,P01,172,234.0,33% OFF,115,322,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+923,6909d3,STBLR-2,CAMP_DIW_01,P02,860,390.0,33% OFF,576,585,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+924,1c3fb4,STMLR-1,CAMP_SAN_01,P02,860,237.0,33% OFF,576,327,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+925,26e506,STCHE-0,CAMP_SAN_01,P09,90,72.0,25% OFF,67,59,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+926,e5804e,STHYD-0,CAMP_DIW_01,P01,172,316.0,33% OFF,115,521,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+927,68e849,STMLR-2,CAMP_DIW_01,P06,415,40.0,25% OFF,311,34,Home Care,Atliq_Fusion_Container_Set_of_3
+928,699bac,STCHE-7,CAMP_SAN_01,P07,300,42.0,BOGOF,150,183,Home Care,Atliq_Curtains
+929,edac38,STBLR-1,CAMP_DIW_01,P11,190,70.0,50% OFF,95,93,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+930,c917a3,STCHE-3,CAMP_DIW_01,P04,290,350.0,25% OFF,217,311,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+931,1b0022,STVSK-0,CAMP_SAN_01,P04,370,370.0,BOGOF,185,1457,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+932,7014a8,STBLR-8,CAMP_SAN_01,P14,1020,97.0,BOGOF,510,385,Home Appliances,Atliq_waterproof_Immersion_Rod
+933,16fb87,STBLR-2,CAMP_SAN_01,P10,50,37.0,25% OFF,37,31,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+934,c0ecb5,STCHE-2,CAMP_SAN_01,P07,300,43.0,BOGOF,150,167,Home Care,Atliq_Curtains
+935,efd0d2,STMYS-2,CAMP_DIW_01,P15,3000,486.0,500 Cashback,2500,1273,Combo1,Atliq_Home_Essential_8_Product_Combo
+936,3ec68b,STBLR-1,CAMP_DIW_01,P09,110,73.0,50% OFF,55,95,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+937,1d651c,STCHE-5,CAMP_SAN_01,P15,3000,121.0,500 Cashback,2500,273,Combo1,Atliq_Home_Essential_8_Product_Combo
+938,f97b6d,STMLR-2,CAMP_DIW_01,P07,300,33.0,BOGOF,150,115,Home Care,Atliq_Curtains
+939,f41256,STMLR-1,CAMP_SAN_01,P15,3000,58.0,500 Cashback,2500,128,Combo1,Atliq_Home_Essential_8_Product_Combo
+940,79d01b,STHYD-1,CAMP_DIW_01,P11,190,61.0,50% OFF,95,72,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+941,ec3591,STCHE-1,CAMP_SAN_01,P09,90,79.0,25% OFF,67,63,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+942,bb447f,STCBE-3,CAMP_SAN_01,P12,62,36.0,50% OFF,31,55,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+943,9413a7,STHYD-3,CAMP_DIW_01,P11,190,80.0,50% OFF,95,124,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+944,0a8543,STHYD-4,CAMP_DIW_01,P01,172,304.0,33% OFF,115,465,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+945,5.40E+190,STBLR-0,CAMP_DIW_01,P02,860,362.0,33% OFF,576,535,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+946,440bd9,STBLR-0,CAMP_SAN_01,P13,350,129.0,BOGOF,175,528,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+947,f741af,STHYD-2,CAMP_SAN_01,P01,172,333.0,33% OFF,115,456,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+948,5a94d6,STVSK-0,CAMP_DIW_01,P06,415,64.0,25% OFF,311,58,Home Care,Atliq_Fusion_Container_Set_of_3
+949,5c50b6,STHYD-6,CAMP_SAN_01,P09,90,55.0,25% OFF,67,45,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+950,27bc6e,STCBE-2,CAMP_DIW_01,P14,1020,42.0,BOGOF,510,160,Home Appliances,Atliq_waterproof_Immersion_Rod
+951,13ad42,STMDU-0,CAMP_DIW_01,P03,156,241.0,25% OFF,117,209,Grocery & Staples,Atliq_Suflower_Oil (1L)
+952,626cb9,STMLR-0,CAMP_DIW_01,P09,110,36.0,50% OFF,55,48,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+953,7634c0,STMLR-0,CAMP_SAN_01,P10,50,15.0,25% OFF,37,12,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+954,74d23a,STCHE-0,CAMP_DIW_01,P07,300,75.0,BOGOF,150,252,Home Care,Atliq_Curtains
+955,dcaeaa,STBLR-7,CAMP_DIW_01,P04,290,276.0,25% OFF,217,242,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+956,3f9b4d,STHYD-5,CAMP_SAN_01,P09,90,66.0,25% OFF,67,62,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+957,f2bdcc,STBLR-4,CAMP_DIW_01,P01,172,337.0,33% OFF,115,478,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+958,c5ba9b,STMYS-0,CAMP_SAN_01,P01,172,279.0,33% OFF,115,401,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+959,30bacd,STBLR-3,CAMP_DIW_01,P14,1020,42.0,BOGOF,510,143,Home Appliances,Atliq_waterproof_Immersion_Rod
+960,a26b45,STBLR-3,CAMP_DIW_01,P01,172,287.0,33% OFF,115,413,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+961,23421e,STBLR-2,CAMP_SAN_01,P12,62,54.0,50% OFF,31,77,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+962,7c8fd1,STMYS-3,CAMP_DIW_01,P15,3000,78.0,500 Cashback,2500,1472,Combo1,Atliq_Home_Essential_8_Product_Combo
+963,b7f012,STMYS-2,CAMP_SAN_01,P15,3000,118.0,500 Cashback,2500,208,Combo1,Atliq_Home_Essential_8_Product_Combo
+964,0312a8,STCHE-7,CAMP_DIW_01,P15,3000,393.0,500 Cashback,2500,1375,Combo1,Atliq_Home_Essential_8_Product_Combo
+965,fe3560,STHYD-4,CAMP_DIW_01,P13,350,73.0,BOGOF,175,245,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+966,f88523,STTRV-1,CAMP_SAN_01,P05,55,10.0,25% OFF,41,9,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+967,48d526,STCHE-7,CAMP_SAN_01,P15,3000,115.0,500 Cashback,2500,332,Combo1,Atliq_Home_Essential_8_Product_Combo
+968,66b7cc,STCHE-3,CAMP_DIW_01,P13,350,82.0,BOGOF,175,328,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+969,021d48,STMLR-2,CAMP_SAN_01,P14,1020,61.0,BOGOF,510,243,Home Appliances,Atliq_waterproof_Immersion_Rod
+970,e875c6,STCBE-2,CAMP_DIW_01,P03,156,225.0,25% OFF,117,195,Grocery & Staples,Atliq_Suflower_Oil (1L)
+971,4f757f,STMYS-1,CAMP_SAN_01,P13,350,129.0,BOGOF,175,540,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+972,c6d7c5,STMYS-3,CAMP_DIW_01,P12,62,124.0,50% OFF,31,145,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+973,c4a484,STMYS-2,CAMP_DIW_01,P01,172,295.0,33% OFF,115,454,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+974,879d99,STHYD-5,CAMP_DIW_01,P09,110,92.0,50% OFF,55,124,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+975,582098,STMYS-1,CAMP_SAN_01,P14,1020,109.0,BOGOF,510,453,Home Appliances,Atliq_waterproof_Immersion_Rod
+976,02b894,STBLR-2,CAMP_SAN_01,P02,860,477.0,33% OFF,576,658,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+977,62d659,STHYD-6,CAMP_DIW_01,P10,65,105.0,50% OFF,32,137,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+978,9b8658,STHYD-5,CAMP_DIW_01,P11,190,73.0,50% OFF,95,97,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+979,fd4e7e,STCBE-4,CAMP_SAN_01,P03,200,336.0,BOGOF,100,913,Grocery & Staples,Atliq_Suflower_Oil (1L)
+980,bfdede,STMYS-2,CAMP_SAN_01,P11,190,61.0,50% OFF,95,86,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+981,ac6273,STHYD-2,CAMP_DIW_01,P01,172,281.0,33% OFF,115,435,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+982,f0500d,STCHE-6,CAMP_DIW_01,P09,110,66.0,50% OFF,55,82,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+983,29687a,STVJD-0,CAMP_SAN_01,P02,860,298.0,33% OFF,576,420,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+984,5f65df,STCHE-2,CAMP_SAN_01,P13,350,105.0,BOGOF,175,423,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+985,4aa530,STMYS-0,CAMP_DIW_01,P02,860,465.0,33% OFF,576,674,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+986,38b760,STMDU-0,CAMP_DIW_01,P14,1020,33.0,BOGOF,510,126,Home Appliances,Atliq_waterproof_Immersion_Rod
+987,6eede8,STTRV-0,CAMP_SAN_01,P11,190,22.0,50% OFF,95,30,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+988,dc23bb,STVSK-0,CAMP_DIW_01,P08,1190,42.0,BOGOF,595,145,Home Care,Atliq_Double_Bedsheet_set
+989,361cfb,STMLR-0,CAMP_DIW_01,P14,1020,22.0,BOGOF,510,69,Home Appliances,Atliq_waterproof_Immersion_Rod
+990,151c7d,STMLR-1,CAMP_DIW_01,P06,415,49.0,25% OFF,311,42,Home Care,Atliq_Fusion_Container_Set_of_3
+991,5f18fc,STVJD-1,CAMP_SAN_01,P10,50,18.0,25% OFF,37,13,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+992,9d1009,STHYD-0,CAMP_DIW_01,P06,415,78.0,25% OFF,311,68,Home Care,Atliq_Fusion_Container_Set_of_3
+993,21b73e,STTRV-0,CAMP_DIW_01,P05,55,61.0,25% OFF,41,59,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+994,a71e7c,STCBE-2,CAMP_SAN_01,P12,62,33.0,50% OFF,31,51,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+995,60229b,STCBE-3,CAMP_DIW_01,P01,172,241.0,33% OFF,115,404,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+996,0842b9,STCBE-1,CAMP_DIW_01,P04,290,227.0,25% OFF,217,172,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+997,fcee36,STMYS-0,CAMP_SAN_01,P12,62,66.0,50% OFF,31,92,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+998,449732,STBLR-9,CAMP_DIW_01,P05,55,101.0,25% OFF,41,97,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+999,8f66c3,STMLR-1,CAMP_SAN_01,P01,172,126.0,33% OFF,115,175,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+1000,345b49,STMDU-2,CAMP_SAN_01,P14,1020,76.0,BOGOF,510,300,Home Appliances,Atliq_waterproof_Immersion_Rod
+1001,005c46,STCBE-2,CAMP_SAN_01,P05,55,18.0,25% OFF,41,15,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+1002,0f184e,STVSK-0,CAMP_DIW_01,P05,55,89.0,25% OFF,41,80,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+1003,635862,STVSK-4,CAMP_SAN_01,P02,860,348.0,33% OFF,576,480,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+1004,5dd3d3,STVJD-0,CAMP_DIW_01,P09,110,40.0,50% OFF,55,54,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+1005,6ebca9,STTRV-0,CAMP_SAN_01,P13,350,60.0,BOGOF,175,240,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+1006,177b80,STMLR-0,CAMP_SAN_01,P14,1020,37.0,BOGOF,510,96,Home Appliances,Atliq_waterproof_Immersion_Rod
+1007,4ab3bc,STHYD-2,CAMP_SAN_01,P09,90,66.0,25% OFF,67,49,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+1008,9155d1,STTRV-1,CAMP_DIW_01,P11,190,33.0,50% OFF,95,43,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+1009,a42141,STMDU-1,CAMP_SAN_01,P15,3000,85.0,500 Cashback,2500,195,Combo1,Atliq_Home_Essential_8_Product_Combo
+1010,8e1636,STBLR-4,CAMP_SAN_01,P15,3000,109.0,500 Cashback,2500,249,Combo1,Atliq_Home_Essential_8_Product_Combo
+1011,77c2be,STBLR-8,CAMP_DIW_01,P06,415,78.0,25% OFF,311,62,Home Care,Atliq_Fusion_Container_Set_of_3
+1012,aa96fc,STCHE-4,CAMP_SAN_01,P04,370,379.0,BOGOF,185,1603,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1013,4b8e08,STHYD-1,CAMP_SAN_01,P11,190,37.0,50% OFF,95,41,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+1014,5ae6d6,STBLR-1,CAMP_SAN_01,P09,90,82.0,25% OFF,67,74,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+1015,e0de60,STHYD-6,CAMP_DIW_01,P03,156,327.0,25% OFF,117,294,Grocery & Staples,Atliq_Suflower_Oil (1L)
+1016,8ba5a1,STBLR-6,CAMP_DIW_01,P09,110,84.0,50% OFF,55,131,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+1017,93a29e,STCHE-4,CAMP_SAN_01,P05,55,28.0,25% OFF,41,22,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+1018,a298bc,STVJD-1,CAMP_DIW_01,P07,300,33.0,BOGOF,150,109,Home Care,Atliq_Curtains
+1019,68a7bc,STBLR-5,CAMP_DIW_01,P04,290,322.0,25% OFF,217,276,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1020,a02f06,STMLR-2,CAMP_SAN_01,P04,370,226.0,BOGOF,185,881,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1021,4d3722,STMLR-0,CAMP_DIW_01,P04,290,175.0,25% OFF,217,150,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1022,d88318,STCHE-5,CAMP_DIW_01,P08,1190,45.0,BOGOF,595,149,Home Care,Atliq_Double_Bedsheet_set
+1023,8564bb,STVSK-4,CAMP_SAN_01,P04,370,291.0,BOGOF,185,762,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1024,35e3ec,STMDU-1,CAMP_SAN_01,P07,300,40.0,BOGOF,150,154,Home Care,Atliq_Curtains
+1025,ff18f2,STVSK-3,CAMP_DIW_01,P15,3000,260.0,500 Cashback,2500,681,Combo1,Atliq_Home_Essential_8_Product_Combo
+1026,3.14E+36,STCBE-4,CAMP_DIW_01,P04,290,252.0,25% OFF,217,226,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1027,a6276f,STCHE-4,CAMP_DIW_01,P14,1020,56.0,BOGOF,510,224,Home Appliances,Atliq_waterproof_Immersion_Rod
+1028,94f48c,STVSK-1,CAMP_SAN_01,P06,415,22.0,25% OFF,311,16,Home Care,Atliq_Fusion_Container_Set_of_3
+1029,36968d,STMDU-1,CAMP_SAN_01,P02,860,78.0,33% OFF,576,404,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+1030,f304a8,STMYS-1,CAMP_DIW_01,P04,290,204.0,25% OFF,217,157,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1031,5c3c33,STCHE-6,CAMP_DIW_01,P12,62,154.0,50% OFF,31,207,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+1032,59effd,STBLR-5,CAMP_SAN_01,P14,1020,97.0,BOGOF,510,380,Home Appliances,Atliq_waterproof_Immersion_Rod
+1033,3b4a4f,STBLR-0,CAMP_DIW_01,P04,290,337.0,25% OFF,217,296,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1034,6639a5,STMDU-0,CAMP_SAN_01,P07,300,31.0,BOGOF,150,130,Home Care,Atliq_Curtains
+1035,1548f8,STVSK-4,CAMP_SAN_01,P15,3000,100.0,500 Cashback,2500,175,Combo1,Atliq_Home_Essential_8_Product_Combo
+1036,578a67,STBLR-2,CAMP_DIW_01,P11,190,101.0,50% OFF,95,131,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+1037,323aee,STVSK-0,CAMP_DIW_01,P07,300,36.0,BOGOF,150,119,Home Care,Atliq_Curtains
+1038,9b309b,STMYS-0,CAMP_SAN_01,P09,90,67.0,25% OFF,67,56,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+1039,aabcfb,STVSK-3,CAMP_SAN_01,P02,860,345.0,33% OFF,576,438,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+1040,cfa879,STCHE-4,CAMP_SAN_01,P13,350,114.0,BOGOF,175,502,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+1041,693708,STBLR-3,CAMP_SAN_01,P03,200,454.0,BOGOF,100,1788,Grocery & Staples,Atliq_Suflower_Oil (1L)
+1042,fb4f00,STCHE-0,CAMP_DIW_01,P11,190,80.0,50% OFF,95,102,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+1043,74657,STMLR-0,CAMP_DIW_01,P02,860,194.0,33% OFF,576,271,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+1044,b97eb0,STBLR-2,CAMP_SAN_01,P11,190,49.0,50% OFF,95,68,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+1045,18f69b,STMLR-2,CAMP_DIW_01,P10,65,61.0,50% OFF,32,68,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+1046,82454e,STMLR-1,CAMP_DIW_01,P05,55,54.0,25% OFF,41,48,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+1047,0ee55a,STHYD-5,CAMP_DIW_01,P06,415,82.0,25% OFF,311,80,Home Care,Atliq_Fusion_Container_Set_of_3
+1048,f3a7b2,STHYD-6,CAMP_SAN_01,P01,172,306.0,33% OFF,115,416,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+1049,fbab9b,STMYS-1,CAMP_DIW_01,P01,172,334.0,33% OFF,115,591,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+1050,98cc83,STVSK-0,CAMP_DIW_01,P10,65,84.0,50% OFF,32,127,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+1051,1a1edd,STBLR-7,CAMP_DIW_01,P03,156,343.0,25% OFF,117,301,Grocery & Staples,Atliq_Suflower_Oil (1L)
+1052,2.36E+34,STMDU-1,CAMP_DIW_01,P11,190,52.0,50% OFF,95,65,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+1053,c99d18,STCHE-7,CAMP_DIW_01,P08,1190,54.0,BOGOF,595,218,Home Care,Atliq_Double_Bedsheet_set
+1054,c55ec9,STBLR-1,CAMP_SAN_01,P15,3000,136.0,500 Cashback,2500,220,Combo1,Atliq_Home_Essential_8_Product_Combo
+1055,6046fa,STBLR-4,CAMP_DIW_01,P12,62,141.0,50% OFF,31,180,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+1056,316f12,STHYD-6,CAMP_SAN_01,P05,55,33.0,25% OFF,41,27,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+1057,bff226,STCBE-1,CAMP_DIW_01,P06,415,57.0,25% OFF,311,44,Home Care,Atliq_Fusion_Container_Set_of_3
+1058,45512d,STMYS-3,CAMP_SAN_01,P04,370,336.0,BOGOF,185,1434,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1059,3f2255,STBLR-3,CAMP_DIW_01,P02,860,381.0,33% OFF,576,563,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+1060,316cd1,STMYS-2,CAMP_SAN_01,P07,300,45.0,BOGOF,150,122,Home Care,Atliq_Curtains
+1061,a692dc,STCHE-1,CAMP_SAN_01,P01,172,270.0,33% OFF,115,340,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+1062,73f158,STHYD-2,CAMP_SAN_01,P14,1020,118.0,BOGOF,510,459,Home Appliances,Atliq_waterproof_Immersion_Rod
+1063,edacb9,STCHE-3,CAMP_DIW_01,P10,65,119.0,50% OFF,32,154,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+1064,b8269b,STBLR-1,CAMP_DIW_01,P13,350,77.0,BOGOF,175,232,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+1065,cf734f,STHYD-4,CAMP_SAN_01,P08,1190,51.0,BOGOF,595,203,Home Care,Atliq_Double_Bedsheet_set
+1066,2e48c4,STVSK-0,CAMP_DIW_01,P09,110,78.0,50% OFF,55,76,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+1067,aacd2a,STMYS-3,CAMP_SAN_01,P10,50,25.0,25% OFF,37,21,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+1068,bb83e5,STMDU-2,CAMP_DIW_01,P08,1190,40.0,BOGOF,595,133,Home Care,Atliq_Double_Bedsheet_set
+1069,98d4e3,STMLR-2,CAMP_SAN_01,P13,350,70.0,BOGOF,175,281,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+1070,a6cb9e,STVSK-2,CAMP_SAN_01,P05,55,15.0,25% OFF,41,12,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+1071,fc3f51,STBLR-6,CAMP_SAN_01,P07,300,40.0,BOGOF,150,165,Home Care,Atliq_Curtains
+1072,817b4f,STCHE-5,CAMP_DIW_01,P11,190,78.0,50% OFF,95,92,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+1073,bfc9da,STBLR-9,CAMP_SAN_01,P04,370,387.0,BOGOF,185,1509,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1074,21006,STVSK-2,CAMP_SAN_01,P03,200,192.0,BOGOF,100,754,Grocery & Staples,Atliq_Suflower_Oil (1L)
+1075,f517b1,STVSK-4,CAMP_SAN_01,P07,300,33.0,BOGOF,150,83,Home Care,Atliq_Curtains
+1076,3952a0,STHYD-2,CAMP_SAN_01,P13,350,114.0,BOGOF,175,441,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+1077,02fa4b,STVSK-4,CAMP_DIW_01,P01,172,155.0,33% OFF,115,218,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+1078,fd2628,STBLR-8,CAMP_DIW_01,P15,3000,437.0,500 Cashback,2500,1306,Combo1,Atliq_Home_Essential_8_Product_Combo
+1079,609bfd,STBLR-1,CAMP_DIW_01,P12,62,129.0,50% OFF,31,170,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+1080,4d8607,STCHE-0,CAMP_DIW_01,P03,156,323.0,25% OFF,117,293,Grocery & Staples,Atliq_Suflower_Oil (1L)
+1081,e4235a,STVJD-0,CAMP_SAN_01,P09,90,33.0,25% OFF,67,30,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+1082,fb29d7,STMYS-3,CAMP_SAN_01,P06,415,28.0,25% OFF,311,23,Home Care,Atliq_Fusion_Container_Set_of_3
+1083,d3575d,STMLR-2,CAMP_DIW_01,P02,860,210.0,33% OFF,576,268,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+1084,108a63,STHYD-3,CAMP_SAN_01,P05,55,30.0,25% OFF,41,22,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+1085,8819fd,STBLR-2,CAMP_DIW_01,P04,290,350.0,25% OFF,217,304,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1086,2abe5e,STCHE-6,CAMP_SAN_01,P06,415,40.0,25% OFF,311,28,Home Care,Atliq_Fusion_Container_Set_of_3
+1087,d8a4ae,STBLR-0,CAMP_SAN_01,P05,55,28.0,25% OFF,41,22,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+1088,7f81c2,STCHE-2,CAMP_DIW_01,P05,55,91.0,25% OFF,41,88,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+1089,b526b4,STCHE-7,CAMP_SAN_01,P02,860,525.0,33% OFF,576,756,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+1090,1d8f76,STMYS-0,CAMP_DIW_01,P01,172,301.0,33% OFF,115,433,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+1091,3a1cad,STMDU-3,CAMP_DIW_01,P12,62,87.0,50% OFF,31,93,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+1092,1b6084,STMLR-1,CAMP_DIW_01,P01,172,141.0,33% OFF,115,217,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+1093,3edc10,STVSK-1,CAMP_DIW_01,P03,156,246.0,25% OFF,117,194,Grocery & Staples,Atliq_Suflower_Oil (1L)
+1094,3bc352,STHYD-3,CAMP_DIW_01,P07,300,54.0,BOGOF,150,170,Home Care,Atliq_Curtains
+1095,8d20b8,STBLR-5,CAMP_DIW_01,P09,110,75.0,50% OFF,55,95,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+1096,79a95a,STHYD-3,CAMP_SAN_01,P15,3000,121.0,500 Cashback,2500,200,Combo1,Atliq_Home_Essential_8_Product_Combo
+1097,98e55f,STBLR-4,CAMP_DIW_01,P06,415,101.0,25% OFF,311,90,Home Care,Atliq_Fusion_Container_Set_of_3
+1098,761785,STBLR-4,CAMP_SAN_01,P14,1020,121.0,BOGOF,510,474,Home Appliances,Atliq_waterproof_Immersion_Rod
+1099,4d22d1,STBLR-9,CAMP_SAN_01,P12,62,52.0,50% OFF,31,73,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+1100,830e9a,STCHE-1,CAMP_DIW_01,P01,172,325.0,33% OFF,115,396,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+1101,40baa1,STCBE-0,CAMP_SAN_01,P08,1190,42.0,BOGOF,595,167,Home Care,Atliq_Double_Bedsheet_set
+1102,b79118,STVSK-3,CAMP_DIW_01,P04,290,236.0,25% OFF,217,210,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1103,bc8315,STHYD-1,CAMP_DIW_01,P12,62,122.0,50% OFF,31,135,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+1104,1271,STCBE-2,CAMP_SAN_01,P13,350,121.0,BOGOF,175,500,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+1105,d78c78,STCHE-0,CAMP_DIW_01,P14,1020,52.0,BOGOF,510,182,Home Appliances,Atliq_waterproof_Immersion_Rod
+1106,ad2ad4,STMDU-3,CAMP_DIW_01,P04,290,197.0,25% OFF,217,175,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1107,788131,STBLR-3,CAMP_DIW_01,P10,65,108.0,50% OFF,32,145,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+1108,0cc836,STVSK-0,CAMP_SAN_01,P05,55,18.0,25% OFF,41,14,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+1109,ba7fb5,STCHE-0,CAMP_DIW_01,P05,55,119.0,25% OFF,41,107,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+1110,c3c9e3,STVSK-1,CAMP_DIW_01,P15,3000,301.0,500 Cashback,2500,869,Combo1,Atliq_Home_Essential_8_Product_Combo
+1111,b17f27,STCBE-0,CAMP_DIW_01,P06,415,59.0,25% OFF,311,56,Home Care,Atliq_Fusion_Container_Set_of_3
+1112,c7f28c,STBLR-0,CAMP_SAN_01,P15,3000,144.0,500 Cashback,2500,374,Combo1,Atliq_Home_Essential_8_Product_Combo
+1113,c22cf6,STCHE-6,CAMP_SAN_01,P12,62,58.0,50% OFF,31,81,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+1114,28acbc,STBLR-2,CAMP_DIW_01,P10,65,105.0,50% OFF,32,132,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+1115,2ba228,STCHE-5,CAMP_DIW_01,P02,860,316.0,33% OFF,576,388,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+1116,0894b7,STCHE-3,CAMP_SAN_01,P08,1190,46.0,BOGOF,595,203,Home Care,Atliq_Double_Bedsheet_set
+1117,25902,STMYS-2,CAMP_DIW_01,P11,190,70.0,50% OFF,95,93,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+1118,67f756,STHYD-5,CAMP_SAN_01,P13,350,111.0,BOGOF,175,441,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+1119,deea3e,STMLR-1,CAMP_SAN_01,P14,1020,51.0,BOGOF,510,198,Home Appliances,Atliq_waterproof_Immersion_Rod
+1120,930325,STTRV-0,CAMP_SAN_01,P09,90,31.0,25% OFF,67,28,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+1121,65a802,STMLR-1,CAMP_SAN_01,P05,55,13.0,25% OFF,41,10,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+1122,93e61f,STBLR-4,CAMP_DIW_01,P10,65,92.0,50% OFF,32,120,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+1123,107747,STHYD-1,CAMP_SAN_01,P02,860,488.0,33% OFF,576,580,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+1124,ec5570,STVJD-1,CAMP_DIW_01,P10,65,71.0,50% OFF,32,95,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+1125,fb9e95,STBLR-5,CAMP_DIW_01,P12,62,141.0,50% OFF,31,179,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+1126,5c8834,STBLR-2,CAMP_SAN_01,P05,55,24.0,25% OFF,41,19,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+1127,0951b6,STMYS-1,CAMP_DIW_01,P09,110,103.0,50% OFF,55,159,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+1128,ce3c11,STHYD-4,CAMP_DIW_01,P14,1020,52.0,BOGOF,510,176,Home Appliances,Atliq_waterproof_Immersion_Rod
+1129,f1cd45,STVJD-1,CAMP_DIW_01,P11,190,50.0,50% OFF,95,64,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+1130,4a8c38,STCHE-0,CAMP_SAN_01,P04,370,469.0,BOGOF,185,1861,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1131,955fa6,STHYD-5,CAMP_DIW_01,P12,62,161.0,50% OFF,31,209,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+1132,e80ad8,STCHE-7,CAMP_DIW_01,P10,65,136.0,50% OFF,32,179,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+1133,c6e3ae,STCHE-0,CAMP_SAN_01,P13,350,117.0,BOGOF,175,457,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+1134,1c9eaa,STBLR-6,CAMP_DIW_01,P02,860,367.0,33% OFF,576,612,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+1135,8ef678,STMYS-3,CAMP_DIW_01,P01,172,311.0,33% OFF,115,398,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+1136,de1ced,STCHE-3,CAMP_DIW_01,P03,156,330.0,25% OFF,117,290,Grocery & Staples,Atliq_Suflower_Oil (1L)
+1137,546cc3,STHYD-3,CAMP_SAN_01,P01,172,312.0,33% OFF,115,483,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+1138,b5b0f5,STCBE-0,CAMP_SAN_01,P02,860,399.0,33% OFF,576,586,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+1139,72f6b4,STTRV-0,CAMP_SAN_01,P02,860,241.0,33% OFF,576,344,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+1140,be603f,STHYD-1,CAMP_DIW_01,P09,110,87.0,50% OFF,55,92,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+1141,a9ee19,STBLR-1,CAMP_SAN_01,P08,1190,58.0,BOGOF,595,158,Home Care,Atliq_Double_Bedsheet_set
+1142,acf9c2,STCHE-4,CAMP_SAN_01,P01,172,235.0,33% OFF,115,329,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+1143,af100a,STMLR-2,CAMP_SAN_01,P03,200,190.0,BOGOF,100,752,Grocery & Staples,Atliq_Suflower_Oil (1L)
+1144,c15780,STVJD-1,CAMP_SAN_01,P04,370,183.0,BOGOF,185,708,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1145,eae38f,STVJD-1,CAMP_SAN_01,P13,350,73.0,BOGOF,175,286,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+1146,939435,STMLR-2,CAMP_SAN_01,P07,300,24.0,BOGOF,150,96,Home Care,Atliq_Curtains
+1147,d3f755,STCBE-1,CAMP_SAN_01,P08,1190,43.0,BOGOF,595,171,Home Care,Atliq_Double_Bedsheet_set
+1148,9faad8,STHYD-0,CAMP_SAN_01,P09,90,54.0,25% OFF,67,44,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+1149,3adeb2,STMYS-0,CAMP_SAN_01,P14,1020,84.0,BOGOF,510,219,Home Appliances,Atliq_waterproof_Immersion_Rod
+1150,7b1d41,STMYS-2,CAMP_DIW_01,P14,1020,43.0,BOGOF,510,125,Home Appliances,Atliq_waterproof_Immersion_Rod
+1151,657a95,STCHE-4,CAMP_DIW_01,P12,62,126.0,50% OFF,31,168,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+1152,3080c6,STVSK-4,CAMP_DIW_01,P14,1020,38.0,BOGOF,510,114,Home Appliances,Atliq_waterproof_Immersion_Rod
+1153,b6dd84,STVJD-1,CAMP_SAN_01,P01,172,166.0,33% OFF,115,225,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+1154,b98ea0,STCHE-3,CAMP_SAN_01,P11,190,48.0,50% OFF,95,69,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+1155,e12c11,STCHE-1,CAMP_SAN_01,P14,1020,112.0,BOGOF,510,294,Home Appliances,Atliq_waterproof_Immersion_Rod
+1156,333b7d,STHYD-6,CAMP_DIW_01,P08,1190,78.0,BOGOF,595,166,Home Care,Atliq_Double_Bedsheet_set
+1157,eb3bea,STVSK-2,CAMP_SAN_01,P15,3000,78.0,500 Cashback,2500,238,Combo1,Atliq_Home_Essential_8_Product_Combo
+1158,7b51be,STCHE-5,CAMP_SAN_01,P04,370,403.0,BOGOF,185,1587,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1159,c9fa13,STHYD-4,CAMP_SAN_01,P04,370,403.0,BOGOF,185,1567,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1160,2749b0,STCHE-5,CAMP_SAN_01,P11,190,34.0,50% OFF,95,39,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+1161,41dc33,STHYD-1,CAMP_SAN_01,P10,50,36.0,25% OFF,37,29,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+1162,4fe9ba,STVSK-2,CAMP_DIW_01,P07,300,45.0,BOGOF,150,150,Home Care,Atliq_Curtains
+1163,874377,STHYD-3,CAMP_DIW_01,P02,860,365.0,33% OFF,576,616,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+1164,26322a,STMLR-0,CAMP_DIW_01,P10,65,52.0,50% OFF,32,71,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+1165,f1b7e9,STCHE-3,CAMP_DIW_01,P14,1020,52.0,BOGOF,510,211,Home Appliances,Atliq_waterproof_Immersion_Rod
+1166,cd0d8e,STMDU-2,CAMP_DIW_01,P11,190,66.0,50% OFF,95,77,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+1167,37cb7c,STCHE-0,CAMP_DIW_01,P13,350,61.0,BOGOF,175,203,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+1168,df5c15,STBLR-5,CAMP_DIW_01,P06,415,101.0,25% OFF,311,90,Home Care,Atliq_Fusion_Container_Set_of_3
+1169,1ba928,STMDU-1,CAMP_DIW_01,P04,290,255.0,25% OFF,217,219,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1170,2d7f62,STCHE-2,CAMP_SAN_01,P11,190,58.0,50% OFF,95,68,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+1171,69a46e,STCHE-2,CAMP_DIW_01,P01,172,320.0,33% OFF,115,416,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+1172,8f512d,STCBE-3,CAMP_SAN_01,P04,370,364.0,BOGOF,185,1434,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1173,b41e58,STCBE-4,CAMP_DIW_01,P02,860,255.0,33% OFF,576,377,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+1174,1bb04d,STCBE-3,CAMP_SAN_01,P01,172,240.0,33% OFF,115,355,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+1175,fe94ae,STMYS-1,CAMP_SAN_01,P04,370,450.0,BOGOF,185,1984,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1176,fe68f2,STBLR-2,CAMP_SAN_01,P01,172,304.0,33% OFF,115,428,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+1177,536fbf,STMLR-2,CAMP_DIW_01,P15,3000,217.0,500 Cashback,2500,659,Combo1,Atliq_Home_Essential_8_Product_Combo
+1178,fcf54a,STCHE-7,CAMP_DIW_01,P04,290,348.0,25% OFF,217,334,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1179,7c09bf,STVSK-4,CAMP_SAN_01,P10,50,21.0,25% OFF,37,15,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+1180,79bfae,STMYS-2,CAMP_DIW_01,P10,65,134.0,50% OFF,32,182,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+1181,7704c2,STBLR-7,CAMP_SAN_01,P04,370,382.0,BOGOF,185,1638,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1182,7b187a,STVSK-1,CAMP_SAN_01,P14,1020,82.0,BOGOF,510,322,Home Appliances,Atliq_waterproof_Immersion_Rod
+1183,bd2635,STHYD-5,CAMP_DIW_01,P04,290,327.0,25% OFF,217,310,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1184,2dc515,STMYS-3,CAMP_SAN_01,P01,172,232.0,33% OFF,115,294,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+1185,cbf0ad,STCHE-6,CAMP_SAN_01,P03,200,358.0,BOGOF,100,1410,Grocery & Staples,Atliq_Suflower_Oil (1L)
+1186,bed694,STTRV-1,CAMP_SAN_01,P10,50,15.0,25% OFF,37,14,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+1187,15b3a7,STMYS-3,CAMP_DIW_01,P05,55,94.0,25% OFF,41,84,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+1188,5f0a89,STBLR-3,CAMP_SAN_01,P15,3000,114.0,500 Cashback,2500,249,Combo1,Atliq_Home_Essential_8_Product_Combo
+1189,86755e,STCHE-4,CAMP_SAN_01,P07,300,78.0,BOGOF,150,191,Home Care,Atliq_Curtains
+1190,b0cc1e,STBLR-9,CAMP_SAN_01,P02,860,610.0,33% OFF,576,847,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+1191,9871ea,STVSK-1,CAMP_SAN_01,P10,50,25.0,25% OFF,37,18,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+1192,30f1c0,STVJD-1,CAMP_SAN_01,P07,300,22.0,BOGOF,150,88,Home Care,Atliq_Curtains
+1193,ad1849,STCHE-1,CAMP_DIW_01,P05,55,119.0,25% OFF,41,107,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+1194,72f1c0,STVSK-4,CAMP_DIW_01,P11,190,57.0,50% OFF,95,72,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+1195,2db607,STCBE-1,CAMP_DIW_01,P14,1020,40.0,BOGOF,510,136,Home Appliances,Atliq_waterproof_Immersion_Rod
+1196,cefb49,STMYS-3,CAMP_DIW_01,P02,860,322.0,33% OFF,576,386,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+1197,7b49ce,STVJD-1,CAMP_DIW_01,P15,3000,224.0,500 Cashback,2500,685,Combo1,Atliq_Home_Essential_8_Product_Combo
+1198,dafaa4,STVJD-1,CAMP_SAN_01,P05,55,13.0,25% OFF,41,9,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+1199,3b086a,STBLR-4,CAMP_SAN_01,P06,415,36.0,25% OFF,311,29,Home Care,Atliq_Fusion_Container_Set_of_3
+1200,9154f0,STCHE-4,CAMP_DIW_01,P11,190,91.0,50% OFF,95,123,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+1201,c405b3,STCBE-2,CAMP_DIW_01,P04,290,252.0,25% OFF,217,221,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1202,3a3e96,STBLR-6,CAMP_DIW_01,P07,300,68.0,BOGOF,150,263,Home Care,Atliq_Curtains
+1203,240703,STHYD-5,CAMP_SAN_01,P02,860,471.0,33% OFF,576,659,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+1204,ce39e4,STMLR-1,CAMP_DIW_01,P13,350,42.0,BOGOF,175,145,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+1205,262ff3,STVSK-0,CAMP_DIW_01,P13,350,47.0,BOGOF,175,161,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+1206,581ca5,STMDU-0,CAMP_SAN_01,P13,350,90.0,BOGOF,175,371,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+1207,660f7c,STMYS-1,CAMP_SAN_01,P07,300,43.0,BOGOF,150,186,Home Care,Atliq_Curtains
+1208,837127,STVJD-0,CAMP_DIW_01,P03,156,208.0,25% OFF,117,197,Grocery & Staples,Atliq_Suflower_Oil (1L)
+1209,136c14,STHYD-1,CAMP_SAN_01,P03,200,328.0,BOGOF,100,833,Grocery & Staples,Atliq_Suflower_Oil (1L)
+1210,9953ec,STTRV-0,CAMP_SAN_01,P04,370,187.0,BOGOF,185,733,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1211,c4123e,STCHE-7,CAMP_DIW_01,P02,860,336.0,33% OFF,576,507,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+1212,f78e86,STCHE-3,CAMP_DIW_01,P06,415,77.0,25% OFF,311,67,Home Care,Atliq_Fusion_Container_Set_of_3
+1213,71a7a0,STCHE-6,CAMP_DIW_01,P14,1020,59.0,BOGOF,510,195,Home Appliances,Atliq_waterproof_Immersion_Rod
+1214,f9d2c6,STBLR-9,CAMP_SAN_01,P14,1020,111.0,BOGOF,510,429,Home Appliances,Atliq_waterproof_Immersion_Rod
+1215,2c0a90,STMDU-2,CAMP_SAN_01,P12,62,36.0,50% OFF,31,42,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+1216,79577d,STBLR-9,CAMP_DIW_01,P03,156,348.0,25% OFF,117,337,Grocery & Staples,Atliq_Suflower_Oil (1L)
+1217,b27f2a,STBLR-6,CAMP_SAN_01,P10,50,37.0,25% OFF,37,30,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+1218,e411c6,STHYD-4,CAMP_DIW_01,P15,3000,323.0,500 Cashback,2500,965,Combo1,Atliq_Home_Essential_8_Product_Combo
+1219,e116d8,STVSK-4,CAMP_DIW_01,P12,62,98.0,50% OFF,31,133,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+1220,620715,STMYS-3,CAMP_SAN_01,P03,200,340.0,BOGOF,100,1485,Grocery & Staples,Atliq_Suflower_Oil (1L)
+1221,922e6a,STBLR-8,CAMP_SAN_01,P05,55,34.0,25% OFF,41,24,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+1222,13a676,STCBE-4,CAMP_DIW_01,P01,172,203.0,33% OFF,115,296,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+1223,a85a9a,STHYD-2,CAMP_SAN_01,P10,50,42.0,25% OFF,37,31,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+1224,3ce076,STMLR-1,CAMP_DIW_01,P11,190,38.0,50% OFF,95,50,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+1225,faeeb8,STHYD-2,CAMP_DIW_01,P09,110,80.0,50% OFF,55,107,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+1226,4eb35e,STCHE-6,CAMP_SAN_01,P04,370,483.0,BOGOF,185,1907,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1227,415f7e,STVSK-2,CAMP_SAN_01,P07,300,24.0,BOGOF,150,93,Home Care,Atliq_Curtains
+1228,407f1c,STBLR-2,CAMP_SAN_01,P13,350,117.0,BOGOF,175,469,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+1229,62e500,STCHE-7,CAMP_DIW_01,P01,172,346.0,33% OFF,115,505,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+1230,4ab3c2,STVSK-1,CAMP_DIW_01,P09,110,64.0,50% OFF,55,81,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+1231,0f1be6,STCBE-2,CAMP_DIW_01,P12,62,89.0,50% OFF,31,129,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+1232,53089f,STTRV-0,CAMP_DIW_01,P07,300,26.0,BOGOF,150,87,Home Care,Atliq_Curtains
+1233,1142fd,STVSK-3,CAMP_DIW_01,P05,55,71.0,25% OFF,41,63,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+1234,3b54c7,STHYD-3,CAMP_DIW_01,P04,290,367.0,25% OFF,217,297,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1235,a6e691,STCHE-0,CAMP_SAN_01,P03,200,294.0,BOGOF,100,1134,Grocery & Staples,Atliq_Suflower_Oil (1L)
+1236,bea96f,STVSK-2,CAMP_SAN_01,P14,1020,64.0,BOGOF,510,250,Home Appliances,Atliq_waterproof_Immersion_Rod
+1237,1507,STMDU-3,CAMP_DIW_01,P09,110,57.0,50% OFF,55,61,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+1238,d3227b,STMYS-2,CAMP_DIW_01,P04,290,343.0,25% OFF,217,312,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1239,daff65,STMLR-0,CAMP_DIW_01,P11,190,78.0,50% OFF,95,45,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+1240,127984,STMLR-2,CAMP_DIW_01,P04,290,141.0,25% OFF,217,125,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1241,77c6d5,STCHE-1,CAMP_DIW_01,P09,110,59.0,50% OFF,55,67,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+1242,457639,STCHE-4,CAMP_SAN_01,P08,1190,54.0,BOGOF,595,222,Home Care,Atliq_Double_Bedsheet_set
+1243,f3ac85,STBLR-5,CAMP_SAN_01,P03,200,348.0,BOGOF,100,1350,Grocery & Staples,Atliq_Suflower_Oil (1L)
+1244,7fc923,STTRV-0,CAMP_SAN_01,P08,1190,19.0,BOGOF,595,74,Home Care,Atliq_Double_Bedsheet_set
+1245,eaa64b,STBLR-3,CAMP_SAN_01,P09,90,58.0,25% OFF,67,43,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+1246,b58c2d,STMYS-0,CAMP_SAN_01,P02,860,499.0,33% OFF,576,703,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+1247,8d14e2,STBLR-8,CAMP_DIW_01,P05,55,105.0,25% OFF,41,82,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+1248,fe1c63,STMYS-3,CAMP_DIW_01,P11,190,71.0,50% OFF,95,76,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+1249,2e0f86,STMDU-2,CAMP_DIW_01,P12,62,71.0,50% OFF,31,80,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+1250,fe72b2,STHYD-3,CAMP_SAN_01,P13,350,133.0,BOGOF,175,337,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+1251,fb70b4,STCHE-2,CAMP_DIW_01,P03,156,355.0,25% OFF,117,347,Grocery & Staples,Atliq_Suflower_Oil (1L)
+1252,0d23fe,STVSK-4,CAMP_DIW_01,P09,110,63.0,50% OFF,55,86,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+1253,1cfaa8,STBLR-2,CAMP_SAN_01,P08,1190,43.0,BOGOF,595,166,Home Care,Atliq_Double_Bedsheet_set
+1254,6.59E+23,STVJD-0,CAMP_SAN_01,P01,172,186.0,33% OFF,115,252,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+1255,e7bdad,STMLR-1,CAMP_DIW_01,P14,1020,24.0,BOGOF,510,80,Home Appliances,Atliq_waterproof_Immersion_Rod
+1256,6cb844,STBLR-3,CAMP_SAN_01,P10,50,28.0,25% OFF,37,21,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+1257,6a7fa1,STVJD-1,CAMP_SAN_01,P14,1020,61.0,BOGOF,510,243,Home Appliances,Atliq_waterproof_Immersion_Rod
+1258,5ab1d5,STCHE-6,CAMP_DIW_01,P06,415,98.0,25% OFF,311,76,Home Care,Atliq_Fusion_Container_Set_of_3
+1259,d9d3f4,STMYS-1,CAMP_DIW_01,P10,65,103.0,50% OFF,32,158,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+1260,68718c,STCHE-0,CAMP_DIW_01,P04,290,309.0,25% OFF,217,265,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1261,e78335,STMDU-1,CAMP_DIW_01,P03,156,281.0,25% OFF,117,244,Grocery & Staples,Atliq_Suflower_Oil (1L)
+1262,0f422c,STBLR-0,CAMP_DIW_01,P14,1020,42.0,BOGOF,510,168,Home Appliances,Atliq_waterproof_Immersion_Rod
+1263,0ae76a,STMLR-1,CAMP_SAN_01,P11,190,21.0,50% OFF,95,30,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+1264,114087,STHYD-3,CAMP_SAN_01,P06,415,28.0,25% OFF,311,20,Home Care,Atliq_Fusion_Container_Set_of_3
+1265,c16abb,STCHE-7,CAMP_SAN_01,P08,1190,42.0,BOGOF,595,186,Home Care,Atliq_Double_Bedsheet_set
+1266,d81627,STCBE-2,CAMP_SAN_01,P04,370,355.0,BOGOF,185,1508,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1267,8dca75,STBLR-5,CAMP_DIW_01,P13,350,71.0,BOGOF,175,248,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+1268,459bc3,STBLR-8,CAMP_SAN_01,P13,350,97.0,BOGOF,175,378,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+1269,29524a,STBLR-9,CAMP_SAN_01,P10,50,40.0,25% OFF,37,36,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+1270,3bcf8b,STCHE-6,CAMP_SAN_01,P14,1020,138.0,BOGOF,510,547,Home Appliances,Atliq_waterproof_Immersion_Rod
+1271,69557f,STBLR-1,CAMP_DIW_01,P10,65,106.0,50% OFF,32,137,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+1272,508621,STCBE-2,CAMP_SAN_01,P02,860,508.0,33% OFF,576,751,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+1273,6562df,STCBE-1,CAMP_SAN_01,P14,1020,78.0,BOGOF,510,310,Home Appliances,Atliq_waterproof_Immersion_Rod
+1274,fc376a,STHYD-0,CAMP_SAN_01,P14,1020,106.0,BOGOF,510,422,Home Appliances,Atliq_waterproof_Immersion_Rod
+1275,2186aa,STCBE-3,CAMP_SAN_01,P05,55,19.0,25% OFF,41,15,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+1276,5bbf38,STBLR-0,CAMP_DIW_01,P09,110,78.0,50% OFF,55,104,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+1277,24541f,STBLR-1,CAMP_SAN_01,P13,350,111.0,BOGOF,175,290,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+1278,a929ed,STHYD-5,CAMP_DIW_01,P03,156,358.0,25% OFF,117,347,Grocery & Staples,Atliq_Suflower_Oil (1L)
+1279,44838e,STVJD-1,CAMP_DIW_01,P06,415,49.0,25% OFF,311,40,Home Care,Atliq_Fusion_Container_Set_of_3
+1280,63ef11,STCBE-4,CAMP_SAN_01,P09,90,46.0,25% OFF,67,38,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+1281,1e8961,STBLR-3,CAMP_SAN_01,P12,62,61.0,50% OFF,31,84,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+1282,371e1a,STBLR-5,CAMP_DIW_01,P01,172,322.0,33% OFF,115,483,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+1283,207744,STBLR-0,CAMP_SAN_01,P12,62,52.0,50% OFF,31,75,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+1284,b838cd,STTRV-1,CAMP_DIW_01,P01,172,147.0,33% OFF,115,214,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+1285,f2d468,STTRV-0,CAMP_SAN_01,P03,200,190.0,BOGOF,100,741,Grocery & Staples,Atliq_Suflower_Oil (1L)
+1286,35418e,STTRV-0,CAMP_DIW_01,P14,1020,21.0,BOGOF,510,70,Home Appliances,Atliq_waterproof_Immersion_Rod
+1287,f34069,STBLR-9,CAMP_SAN_01,P09,90,61.0,25% OFF,67,57,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+1288,be65d7,STTRV-0,CAMP_DIW_01,P12,62,54.0,50% OFF,31,68,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+1289,c381ea,STMLR-1,CAMP_SAN_01,P08,1190,27.0,BOGOF,595,106,Home Care,Atliq_Double_Bedsheet_set
+1290,fc9ab7,STCBE-1,CAMP_DIW_01,P08,1190,40.0,BOGOF,595,140,Home Care,Atliq_Double_Bedsheet_set
+1291,f8b6ac,STCHE-4,CAMP_DIW_01,P02,860,400.0,33% OFF,576,580,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+1292,6a7668,STCHE-4,CAMP_SAN_01,P15,3000,112.0,500 Cashback,2500,321,Combo1,Atliq_Home_Essential_8_Product_Combo
+1293,380a4f,STCHE-1,CAMP_DIW_01,P08,1190,45.0,BOGOF,595,137,Home Care,Atliq_Double_Bedsheet_set
+1294,380012,STMDU-3,CAMP_DIW_01,P06,415,56.0,25% OFF,311,50,Home Care,Atliq_Fusion_Container_Set_of_3
+1295,fb508c,STBLR-9,CAMP_DIW_01,P15,3000,358.0,500 Cashback,2500,1070,Combo1,Atliq_Home_Essential_8_Product_Combo
+1296,6d24bc,STMDU-2,CAMP_DIW_01,P03,156,206.0,25% OFF,117,179,Grocery & Staples,Atliq_Suflower_Oil (1L)
+1297,c4006c,STCBE-3,CAMP_DIW_01,P15,3000,243.0,500 Cashback,2500,724,Combo1,Atliq_Home_Essential_8_Product_Combo
+1298,9387d1,STHYD-6,CAMP_DIW_01,P02,860,329.0,33% OFF,576,470,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+1299,8ff468,STVJD-0,CAMP_SAN_01,P03,200,193.0,BOGOF,100,773,Grocery & Staples,Atliq_Suflower_Oil (1L)
+1300,bb62b3,STHYD-6,CAMP_SAN_01,P03,200,378.0,BOGOF,100,1459,Grocery & Staples,Atliq_Suflower_Oil (1L)
+1301,716a3b,STCHE-5,CAMP_SAN_01,P14,1020,130.0,BOGOF,510,514,Home Appliances,Atliq_waterproof_Immersion_Rod
+1302,47af00,STVJD-1,CAMP_DIW_01,P03,156,183.0,25% OFF,117,150,Grocery & Staples,Atliq_Suflower_Oil (1L)
+1303,32efe6,STVSK-3,CAMP_SAN_01,P08,1190,30.0,BOGOF,595,81,Home Care,Atliq_Double_Bedsheet_set
+1304,835bbe,STHYD-4,CAMP_SAN_01,P09,90,54.0,25% OFF,67,49,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+1305,e39703,STBLR-9,CAMP_DIW_01,P08,1190,47.0,BOGOF,595,163,Home Care,Atliq_Double_Bedsheet_set
+1306,8a7e7e,STMYS-0,CAMP_SAN_01,P03,200,333.0,BOGOF,100,869,Grocery & Staples,Atliq_Suflower_Oil (1L)
+1307,2fe1bb,STCHE-1,CAMP_SAN_01,P04,370,460.0,BOGOF,185,1168,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1308,8d5095,STCBE-2,CAMP_DIW_01,P15,3000,234.0,500 Cashback,2500,840,Combo1,Atliq_Home_Essential_8_Product_Combo
+1309,855f49,STBLR-3,CAMP_SAN_01,P04,370,481.0,BOGOF,185,1890,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1310,eb5927,STMDU-1,CAMP_SAN_01,P06,415,21.0,25% OFF,311,17,Home Care,Atliq_Fusion_Container_Set_of_3
+1311,1bfbb8,STCHE-7,CAMP_DIW_01,P12,62,171.0,50% OFF,31,222,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+1312,348fe6,STBLR-8,CAMP_DIW_01,P01,172,332.0,33% OFF,115,471,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+1313,06749d,STMDU-2,CAMP_DIW_01,P09,110,47.0,50% OFF,55,54,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+1314,f957f1,STMDU-1,CAMP_SAN_01,P10,50,22.0,25% OFF,37,18,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+1315,d60641,STHYD-0,CAMP_DIW_01,P03,156,351.0,25% OFF,117,305,Grocery & Staples,Atliq_Suflower_Oil (1L)
+1316,742ad5,STBLR-4,CAMP_DIW_01,P02,860,357.0,33% OFF,576,549,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+1317,613571,STTRV-1,CAMP_DIW_01,P15,3000,168.0,500 Cashback,2500,514,Combo1,Atliq_Home_Essential_8_Product_Combo
+1318,32d8f2,STCHE-5,CAMP_SAN_01,P05,55,31.0,25% OFF,41,26,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+1319,4c1375,STHYD-4,CAMP_DIW_01,P10,65,148.0,50% OFF,32,196,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+1320,ec9948,STCBE-2,CAMP_DIW_01,P05,55,99.0,25% OFF,41,86,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+1321,5487a6,STBLR-0,CAMP_DIW_01,P03,156,358.0,25% OFF,117,315,Grocery & Staples,Atliq_Suflower_Oil (1L)
+1322,b94bda,STMYS-0,CAMP_DIW_01,P13,350,56.0,BOGOF,175,168,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+1323,fea4be,STMYS-3,CAMP_SAN_01,P07,300,30.0,BOGOF,150,129,Home Care,Atliq_Curtains
+1324,d1bfe5,STMDU-2,CAMP_DIW_01,P02,860,301.0,33% OFF,576,385,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+1325,e2c5f7,STTRV-0,CAMP_DIW_01,P08,1190,31.0,BOGOF,595,102,Home Care,Atliq_Double_Bedsheet_set
+1326,10a8b7,STMYS-2,CAMP_SAN_01,P12,62,61.0,50% OFF,31,87,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+1327,3153d6,STCBE-4,CAMP_SAN_01,P02,860,396.0,33% OFF,576,558,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+1328,987463,STBLR-0,CAMP_SAN_01,P07,300,45.0,BOGOF,150,185,Home Care,Atliq_Curtains
+1329,d730ac,STCHE-0,CAMP_SAN_01,P06,415,31.0,25% OFF,311,26,Home Care,Atliq_Fusion_Container_Set_of_3
+1330,d3d442,STBLR-5,CAMP_SAN_01,P15,3000,166.0,500 Cashback,2500,396,Combo1,Atliq_Home_Essential_8_Product_Combo
+1331,09d857,STHYD-5,CAMP_DIW_01,P02,860,386.0,33% OFF,576,594,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+1332,f22294,STMYS-1,CAMP_SAN_01,P01,172,345.0,33% OFF,115,520,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+1333,ef6d6d,STBLR-2,CAMP_SAN_01,P14,1020,88.0,BOGOF,510,346,Home Appliances,Atliq_waterproof_Immersion_Rod
+1334,dcaa89,STHYD-6,CAMP_SAN_01,P13,350,100.0,BOGOF,175,403,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+1335,d4b484,STHYD-2,CAMP_DIW_01,P10,65,140.0,50% OFF,32,186,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+1336,1fcb3a,STVSK-4,CAMP_DIW_01,P05,55,89.0,25% OFF,41,72,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+1337,f8e037,STHYD-2,CAMP_DIW_01,P08,1190,52.0,BOGOF,595,175,Home Care,Atliq_Double_Bedsheet_set
+1338,902a62,STHYD-2,CAMP_DIW_01,P06,415,96.0,25% OFF,311,77,Home Care,Atliq_Fusion_Container_Set_of_3
+1339,a7aa70,STMDU-2,CAMP_SAN_01,P11,190,25.0,50% OFF,95,28,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+1340,a40872,STBLR-7,CAMP_DIW_01,P14,1020,47.0,BOGOF,510,189,Home Appliances,Atliq_waterproof_Immersion_Rod
+1341,292d0a,STMDU-0,CAMP_SAN_01,P01,172,219.0,33% OFF,115,304,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+1342,ebc2d2,STVSK-4,CAMP_DIW_01,P06,415,70.0,25% OFF,311,53,Home Care,Atliq_Fusion_Container_Set_of_3
+1343,c23e33,STHYD-6,CAMP_SAN_01,P11,190,49.0,50% OFF,95,69,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+1344,4858ab,STBLR-7,CAMP_SAN_01,P14,1020,124.0,BOGOF,510,514,Home Appliances,Atliq_waterproof_Immersion_Rod
+1345,349c73,STCHE-2,CAMP_DIW_01,P14,1020,57.0,BOGOF,510,189,Home Appliances,Atliq_waterproof_Immersion_Rod
+1346,9d9a6c,STCBE-1,CAMP_SAN_01,P15,3000,82.0,500 Cashback,2500,190,Combo1,Atliq_Home_Essential_8_Product_Combo
+1347,cf6323,STTRV-0,CAMP_DIW_01,P15,3000,190.0,500 Cashback,2500,547,Combo1,Atliq_Home_Essential_8_Product_Combo
+1348,6e79d3,STBLR-2,CAMP_SAN_01,P04,370,373.0,BOGOF,185,1439,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1349,27c86c,STBLR-2,CAMP_DIW_01,P06,415,92.0,25% OFF,311,81,Home Care,Atliq_Fusion_Container_Set_of_3
+1350,918a17,STVSK-1,CAMP_DIW_01,P14,1020,26.0,BOGOF,510,91,Home Appliances,Atliq_waterproof_Immersion_Rod
+1351,3df185,STCBE-2,CAMP_DIW_01,P11,190,40.0,50% OFF,95,62,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+1352,aa54a7,STHYD-1,CAMP_DIW_01,P13,350,91.0,BOGOF,175,281,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+1353,268b09,STMLR-1,CAMP_SAN_01,P13,350,49.0,BOGOF,175,189,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+1354,34e00a,STCBE-1,CAMP_DIW_01,P11,190,61.0,50% OFF,95,65,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+1355,7912c8,STVSK-3,CAMP_SAN_01,P05,55,19.0,25% OFF,41,15,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+1356,eb3ac8,STHYD-0,CAMP_SAN_01,P06,415,42.0,25% OFF,311,34,Home Care,Atliq_Fusion_Container_Set_of_3
+1357,6e5da9,STVJD-0,CAMP_SAN_01,P11,190,25.0,50% OFF,95,35,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+1358,d1e51d,STCBE-4,CAMP_DIW_01,P07,300,42.0,BOGOF,150,130,Home Care,Atliq_Curtains
+1359,9ebcf9,STVSK-4,CAMP_DIW_01,P10,65,80.0,50% OFF,32,109,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+1360,e7769b,STHYD-5,CAMP_DIW_01,P15,3000,357.0,500 Cashback,2500,1046,Combo1,Atliq_Home_Essential_8_Product_Combo
+1361,42ba27,STBLR-2,CAMP_DIW_01,P05,55,115.0,25% OFF,41,101,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+1362,c74866,STBLR-5,CAMP_DIW_01,P10,65,115.0,50% OFF,32,151,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+1363,abffa2,STCHE-5,CAMP_DIW_01,P07,300,59.0,BOGOF,150,206,Home Care,Atliq_Curtains
+1364,cf0ccd,STVSK-1,CAMP_DIW_01,P08,1190,35.0,BOGOF,595,117,Home Care,Atliq_Double_Bedsheet_set
+1365,b2270b,STHYD-0,CAMP_DIW_01,P07,300,52.0,BOGOF,150,173,Home Care,Atliq_Curtains
+1366,0eb41f,STVSK-2,CAMP_SAN_01,P01,172,232.0,33% OFF,115,364,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+1367,6c43b6,STMLR-1,CAMP_DIW_01,P07,300,29.0,BOGOF,150,97,Home Care,Atliq_Curtains
+1368,ae288b,STMYS-0,CAMP_DIW_01,P11,190,89.0,50% OFF,95,113,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+1369,985960,STCBE-4,CAMP_SAN_01,P06,415,21.0,25% OFF,311,17,Home Care,Atliq_Fusion_Container_Set_of_3
+1370,cf2a34,STHYD-3,CAMP_DIW_01,P06,415,106.0,25% OFF,311,81,Home Care,Atliq_Fusion_Container_Set_of_3
+1371,8f1624,STVJD-0,CAMP_DIW_01,P10,65,57.0,50% OFF,32,75,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+1372,d7e3d8,STVJD-1,CAMP_DIW_01,P13,350,36.0,BOGOF,175,124,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+1373,6bb477,STHYD-1,CAMP_DIW_01,P04,290,318.0,25% OFF,217,276,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1374,642b50,STMYS-1,CAMP_DIW_01,P14,1020,36.0,BOGOF,510,145,Home Appliances,Atliq_waterproof_Immersion_Rod
+1375,35a25f,STBLR-9,CAMP_DIW_01,P11,190,75.0,50% OFF,95,98,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+1376,f3de30,STMLR-1,CAMP_SAN_01,P12,62,31.0,50% OFF,31,45,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+1377,308de6,STMDU-2,CAMP_DIW_01,P01,172,225.0,33% OFF,115,279,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+1378,691b63,STCHE-6,CAMP_DIW_01,P15,3000,432.0,500 Cashback,2500,1291,Combo1,Atliq_Home_Essential_8_Product_Combo
+1379,598637,STCHE-7,CAMP_DIW_01,P09,110,71.0,50% OFF,55,90,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+1380,4f7c26,STCBE-4,CAMP_DIW_01,P15,3000,316.0,500 Cashback,2500,818,Combo1,Atliq_Home_Essential_8_Product_Combo
+1381,58df9b,STCBE-2,CAMP_DIW_01,P02,860,183.0,33% OFF,576,327,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+1382,90f2d8,STMDU-2,CAMP_DIW_01,P10,65,61.0,50% OFF,32,71,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+1383,8fecef,STCHE-1,CAMP_DIW_01,P07,300,75.0,BOGOF,150,217,Home Care,Atliq_Curtains
+1384,38bf1b,STCHE-1,CAMP_SAN_01,P05,55,30.0,25% OFF,41,25,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+1385,7d89b1,STVSK-3,CAMP_DIW_01,P08,1190,45.0,BOGOF,595,138,Home Care,Atliq_Double_Bedsheet_set
+1386,8f9cc5,STMLR-1,CAMP_DIW_01,P08,1190,29.0,BOGOF,595,100,Home Care,Atliq_Double_Bedsheet_set
+1387,9ff8d2,STBLR-1,CAMP_DIW_01,P06,415,87.0,25% OFF,311,82,Home Care,Atliq_Fusion_Container_Set_of_3
+1388,c11cad,STMYS-2,CAMP_SAN_01,P09,90,61.0,25% OFF,67,50,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+1389,6f3e24,STHYD-6,CAMP_DIW_01,P15,3000,388.0,500 Cashback,2500,1129,Combo1,Atliq_Home_Essential_8_Product_Combo
+1390,b00eeb,STCHE-0,CAMP_SAN_01,P08,1190,51.0,BOGOF,595,196,Home Care,Atliq_Double_Bedsheet_set
+1391,fe7b5d,STHYD-2,CAMP_SAN_01,P03,200,472.0,BOGOF,100,1902,Grocery & Staples,Atliq_Suflower_Oil (1L)
+1392,605f5e,STVJD-0,CAMP_DIW_01,P06,415,52.0,25% OFF,311,50,Home Care,Atliq_Fusion_Container_Set_of_3
+1393,4cd232,STVJD-0,CAMP_DIW_01,P14,1020,28.0,BOGOF,510,92,Home Appliances,Atliq_waterproof_Immersion_Rod
+1394,367e8d,STCBE-2,CAMP_SAN_01,P07,300,30.0,BOGOF,150,123,Home Care,Atliq_Curtains
+1395,11a64e,STCHE-7,CAMP_SAN_01,P06,415,31.0,25% OFF,311,28,Home Care,Atliq_Fusion_Container_Set_of_3
+1396,b79fd9,STVJD-1,CAMP_DIW_01,P04,290,150.0,25% OFF,217,123,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1397,c5176d,STCBE-2,CAMP_SAN_01,P01,172,196.0,33% OFF,115,307,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+1398,c3b647,STCHE-5,CAMP_SAN_01,P08,1190,64.0,BOGOF,595,256,Home Care,Atliq_Double_Bedsheet_set
+1399,14f1e9,STBLR-4,CAMP_DIW_01,P08,1190,49.0,BOGOF,595,163,Home Care,Atliq_Double_Bedsheet_set
+1400,5f29e7,STMLR-1,CAMP_DIW_01,P12,62,71.0,50% OFF,31,90,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+1401,896c2a,STTRV-0,CAMP_DIW_01,P04,290,180.0,25% OFF,217,171,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1402,a37110,STHYD-0,CAMP_DIW_01,P04,290,367.0,25% OFF,217,330,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1403,bf49bf,STCHE-4,CAMP_SAN_01,P14,1020,111.0,BOGOF,510,473,Home Appliances,Atliq_waterproof_Immersion_Rod
+1404,260ff2,STMYS-2,CAMP_SAN_01,P01,172,204.0,33% OFF,115,291,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+1405,8b751b,STMLR-0,CAMP_SAN_01,P05,55,15.0,25% OFF,41,12,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+1406,388a78,STMDU-0,CAMP_SAN_01,P03,200,307.0,BOGOF,100,1277,Grocery & Staples,Atliq_Suflower_Oil (1L)
+1407,182caa,STCHE-5,CAMP_SAN_01,P06,415,39.0,25% OFF,311,33,Home Care,Atliq_Fusion_Container_Set_of_3
+1408,9d7bd2,STCHE-5,CAMP_DIW_01,P03,156,413.0,25% OFF,117,375,Grocery & Staples,Atliq_Suflower_Oil (1L)
+1409,19bc3b,STMDU-1,CAMP_DIW_01,P09,110,78.0,50% OFF,55,62,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+1410,fc3573,STMYS-2,CAMP_SAN_01,P08,1190,61.0,BOGOF,595,163,Home Care,Atliq_Double_Bedsheet_set
+1411,34a266,STMLR-0,CAMP_DIW_01,P08,1190,24.0,BOGOF,595,70,Home Care,Atliq_Double_Bedsheet_set
+1412,24054f,STBLR-4,CAMP_DIW_01,P09,110,89.0,50% OFF,55,116,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+1413,05d8e7,STMYS-1,CAMP_SAN_01,P12,62,45.0,50% OFF,31,71,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+1414,480431,STVSK-2,CAMP_SAN_01,P04,370,408.0,BOGOF,185,1607,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1415,4ff977,STVSK-4,CAMP_DIW_01,P15,3000,292.0,500 Cashback,2500,750,Combo1,Atliq_Home_Essential_8_Product_Combo
+1416,b017e0,STMDU-3,CAMP_DIW_01,P02,860,276.0,33% OFF,576,345,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+1417,5b357f,STMDU-1,CAMP_DIW_01,P15,3000,322.0,500 Cashback,2500,985,Combo1,Atliq_Home_Essential_8_Product_Combo
+1418,1f8bc3,STCBE-2,CAMP_DIW_01,P01,172,190.0,33% OFF,115,313,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+1419,5dda21,STCBE-0,CAMP_SAN_01,P14,1020,69.0,BOGOF,510,274,Home Appliances,Atliq_waterproof_Immersion_Rod
+1420,572031,STBLR-6,CAMP_SAN_01,P03,200,423.0,BOGOF,100,1734,Grocery & Staples,Atliq_Suflower_Oil (1L)
+1421,f5ff07,STCHE-6,CAMP_DIW_01,P11,190,80.0,50% OFF,95,100,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+1422,b484bd,STTRV-1,CAMP_DIW_01,P06,415,36.0,25% OFF,311,34,Home Care,Atliq_Fusion_Container_Set_of_3
+1423,a340fc,STBLR-4,CAMP_DIW_01,P05,55,136.0,25% OFF,41,121,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+1424,fe2fe7,STCHE-4,CAMP_DIW_01,P05,55,127.0,25% OFF,41,115,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+1425,db8aa8,STTRV-1,CAMP_SAN_01,P03,200,193.0,BOGOF,100,746,Grocery & Staples,Atliq_Suflower_Oil (1L)
+1426,cc5ed4,STMYS-2,CAMP_DIW_01,P03,156,444.0,25% OFF,117,395,Grocery & Staples,Atliq_Suflower_Oil (1L)
+1427,b456c0,STBLR-3,CAMP_DIW_01,P06,415,91.0,25% OFF,311,72,Home Care,Atliq_Fusion_Container_Set_of_3
+1428,6ae178,STCHE-7,CAMP_SAN_01,P10,50,30.0,25% OFF,37,28,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+1429,17edbc,STMYS-1,CAMP_DIW_01,P03,156,281.0,25% OFF,117,230,Grocery & Staples,Atliq_Suflower_Oil (1L)
+1430,d0f417,STCBE-4,CAMP_DIW_01,P12,62,89.0,50% OFF,31,112,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+1431,a83e09,STMDU-3,CAMP_SAN_01,P07,300,22.0,BOGOF,150,88,Home Care,Atliq_Curtains
+1432,2b41a0,STBLR-3,CAMP_SAN_01,P02,860,450.0,33% OFF,576,634,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+1433,a386d9,STCHE-2,CAMP_SAN_01,P09,90,54.0,25% OFF,67,50,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+1434,dabee8,STBLR-1,CAMP_SAN_01,P05,55,19.0,25% OFF,41,17,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+1435,39d354,STMYS-0,CAMP_DIW_01,P06,415,57.0,25% OFF,311,49,Home Care,Atliq_Fusion_Container_Set_of_3
+1436,1620ea,STMYS-3,CAMP_DIW_01,P06,415,101.0,25% OFF,311,89,Home Care,Atliq_Fusion_Container_Set_of_3
+1437,a304b6,STHYD-3,CAMP_DIW_01,P03,156,285.0,25% OFF,117,222,Grocery & Staples,Atliq_Suflower_Oil (1L)
+1438,333ef0,STHYD-0,CAMP_DIW_01,P14,1020,47.0,BOGOF,510,163,Home Appliances,Atliq_waterproof_Immersion_Rod
+1439,75f9b8,STCHE-4,CAMP_SAN_01,P06,415,27.0,25% OFF,311,22,Home Care,Atliq_Fusion_Container_Set_of_3
+1440,e207f7,STCHE-1,CAMP_DIW_01,P11,190,77.0,50% OFF,95,83,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+1441,7ae5f8,STCHE-7,CAMP_DIW_01,P11,190,87.0,50% OFF,95,114,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+1442,567271,STMDU-0,CAMP_DIW_01,P10,65,78.0,50% OFF,32,102,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+1443,fe4bf5,STCHE-4,CAMP_DIW_01,P06,415,91.0,25% OFF,311,80,Home Care,Atliq_Fusion_Container_Set_of_3
+1444,e716e7,STBLR-7,CAMP_DIW_01,P09,110,78.0,50% OFF,55,117,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+1445,367337,STCHE-6,CAMP_SAN_01,P09,90,81.0,25% OFF,67,60,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+1446,98c85b,STMLR-2,CAMP_DIW_01,P13,350,38.0,BOGOF,175,133,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+1447,00a25a,STCHE-3,CAMP_SAN_01,P12,62,64.0,50% OFF,31,89,Personal Care,Atliq_Lime_Cool_Bathing_Bar (125GM)
+1448,bbf357,STVSK-4,CAMP_SAN_01,P11,190,40.0,50% OFF,95,57,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+1449,d0fd0e,STBLR-0,CAMP_SAN_01,P11,190,43.0,50% OFF,95,62,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+1450,9d63a7,STHYD-6,CAMP_SAN_01,P08,1190,43.0,BOGOF,595,166,Home Care,Atliq_Double_Bedsheet_set
+1451,466d6c,STMYS-1,CAMP_SAN_01,P11,190,31.0,50% OFF,95,50,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+1452,686a37,STBLR-0,CAMP_SAN_01,P14,1020,85.0,BOGOF,510,350,Home Appliances,Atliq_waterproof_Immersion_Rod
+1453,a10402,STVSK-2,CAMP_SAN_01,P02,860,295.0,33% OFF,576,436,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+1454,cbe691,STBLR-0,CAMP_DIW_01,P10,65,103.0,50% OFF,32,134,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+1455,2eb400,STBLR-5,CAMP_SAN_01,P07,300,52.0,BOGOF,150,207,Home Care,Atliq_Curtains
+1456,811007,STBLR-9,CAMP_SAN_01,P05,55,27.0,25% OFF,41,25,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+1457,68c31e,STBLR-7,CAMP_SAN_01,P08,1190,54.0,BOGOF,595,235,Home Care,Atliq_Double_Bedsheet_set
+1458,2f3e5d,STCHE-2,CAMP_SAN_01,P01,172,333.0,33% OFF,115,402,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+1459,5db3e3,STBLR-2,CAMP_DIW_01,P13,350,78.0,BOGOF,175,274,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+1460,d04c7f,STBLR-9,CAMP_SAN_01,P07,300,40.0,BOGOF,150,159,Home Care,Atliq_Curtains
+1461,3459ec,STCHE-3,CAMP_SAN_01,P02,860,468.0,33% OFF,576,636,Grocery & Staples,Atliq_Sonamasuri_Rice (10KG)
+1462,2b0db4,STMLR-2,CAMP_DIW_01,P14,1020,21.0,BOGOF,510,73,Home Appliances,Atliq_waterproof_Immersion_Rod
+1463,7d9576,STBLR-7,CAMP_SAN_01,P15,3000,120.0,500 Cashback,2500,345,Combo1,Atliq_Home_Essential_8_Product_Combo
+1464,3f34d5,STCBE-2,CAMP_DIW_01,P09,110,50.0,50% OFF,55,80,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+1465,5760fd,STCBE-1,CAMP_SAN_01,P13,350,87.0,BOGOF,175,346,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+1466,cf9994,STCHE-5,CAMP_SAN_01,P10,50,37.0,25% OFF,37,31,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+1467,37cb87,STBLR-1,CAMP_SAN_01,P07,300,46.0,BOGOF,150,115,Home Care,Atliq_Curtains
+1468,115760,STMDU-2,CAMP_DIW_01,P07,300,43.0,BOGOF,150,147,Home Care,Atliq_Curtains
+1469,d76198,STCHE-4,CAMP_DIW_01,P08,1190,54.0,BOGOF,595,213,Home Care,Atliq_Double_Bedsheet_set
+1470,8937eb,STCHE-1,CAMP_DIW_01,P03,156,357.0,25% OFF,117,317,Grocery & Staples,Atliq_Suflower_Oil (1L)
+1471,f4192d,STMYS-1,CAMP_DIW_01,P11,190,84.0,50% OFF,95,121,Personal Care,Atliq_Doodh_Kesar_Body_Lotion (200ML)
+1472,368ca0,STBLR-4,CAMP_SAN_01,P04,370,432.0,BOGOF,185,1736,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1473,4.47E+06,STVJD-0,CAMP_SAN_01,P04,370,253.0,BOGOF,185,1017,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1474,f3d93f,STHYD-4,CAMP_DIW_01,P09,110,73.0,50% OFF,55,95,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+1475,0179b3,STMLR-2,CAMP_SAN_01,P05,55,15.0,25% OFF,41,12,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+1476,6ae240,STBLR-4,CAMP_SAN_01,P13,350,94.0,BOGOF,175,371,Home Appliances,Atliq_High_Glo_15W_LED_Bulb
+1477,75ad53,STVJD-1,CAMP_DIW_01,P05,55,59.0,25% OFF,41,48,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+1478,f2d198,STTRV-1,CAMP_DIW_01,P03,156,166.0,25% OFF,117,157,Grocery & Staples,Atliq_Suflower_Oil (1L)
+1479,57576d,STBLR-5,CAMP_SAN_01,P08,1190,49.0,BOGOF,595,194,Home Care,Atliq_Double_Bedsheet_set
+1480,3ace0f,STVSK-2,CAMP_DIW_01,P09,110,64.0,50% OFF,55,98,Personal Care,Atliq_Body_Milk_Nourishing_Lotion (120ML)
+1481,c5f80e,STCHE-1,CAMP_DIW_01,P14,1020,43.0,BOGOF,510,125,Home Appliances,Atliq_waterproof_Immersion_Rod
+1482,1dd472,STMLR-1,CAMP_SAN_01,P04,370,220.0,BOGOF,185,886,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1483,8cee6d,STCBE-3,CAMP_DIW_01,P14,1020,22.0,BOGOF,510,73,Home Appliances,Atliq_waterproof_Immersion_Rod
+1484,317699,STCHE-2,CAMP_SAN_01,P03,200,310.0,BOGOF,100,1246,Grocery & Staples,Atliq_Suflower_Oil (1L)
+1485,8f5618,STBLR-1,CAMP_DIW_01,P04,290,302.0,25% OFF,217,289,Grocery & Staples,Atliq_Farm_Chakki_Atta (1KG)
+1486,f41ca1,STCBE-2,CAMP_DIW_01,P07,300,42.0,BOGOF,150,166,Home Care,Atliq_Curtains
+1487,c95efb,STBLR-7,CAMP_DIW_01,P15,3000,416.0,500 Cashback,2500,1389,Combo1,Atliq_Home_Essential_8_Product_Combo
+1488,b5cd07,STVSK-3,CAMP_SAN_01,P01,172,222.0,33% OFF,115,275,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+1489,e17280,STVSK-2,CAMP_DIW_01,P08,1190,38.0,BOGOF,595,129,Home Care,Atliq_Double_Bedsheet_set
+1490,3d7dc9,STCHE-1,CAMP_DIW_01,P10,65,127.0,50% OFF,32,133,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+1491,bb974d,STBLR-2,CAMP_SAN_01,P03,200,307.0,BOGOF,100,1200,Grocery & Staples,Atliq_Suflower_Oil (1L)
+1492,ff3c54,STCHE-3,CAMP_SAN_01,P05,55,24.0,25% OFF,41,19,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+1493,655aa2,STHYD-0,CAMP_DIW_01,P10,65,112.0,50% OFF,32,170,Personal Care,Atliq_Cream_Beauty_Bathing_Soap (125GM)
+1494,c0929c,STHYD-0,CAMP_SAN_01,P05,55,18.0,25% OFF,41,14,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+1495,9bd616,STCHE-0,CAMP_DIW_01,P01,172,330.0,33% OFF,115,504,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+1496,fe4a15,STCBE-4,CAMP_SAN_01,P01,172,205.0,33% OFF,115,284,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+1497,2f0b42,STVSK-1,CAMP_SAN_01,P01,172,78.0,33% OFF,115,302,Grocery & Staples,Atliq_Masoor_Dal (1KG)
+1498,339bf7,STCHE-5,CAMP_DIW_01,P05,55,127.0,25% OFF,41,109,Home Care,Atliq_Scrub_Sponge_For_Dishwash
+1499,d70dcb,STCBE-4,CAMP_SAN_01,P15,3000,90.0,500 Cashback,2500,146,Combo1,Atliq_Home_Essential_8_Product_Combo
